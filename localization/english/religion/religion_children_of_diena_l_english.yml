@@ -1,0 +1,77 @@
+﻿l_english:
+
+ #Common Christian Localization
+ children_of_diena_religion:0 "Children of Diena"
+ children_of_diena_religion_adj:0 "Diena's Child"
+ children_of_diena_religion_adherent:0 "Diena's Child"
+ children_of_diena_religion_adherent_plural:0 "Children of Diena"
+ children_of_diena_religion_desc:0 "In the beginning, the only thing that existed was Diena. Diena was the sole something in nothing. However, Diena desired to create, and so he took parts of himself to create. He made the stars, moons, planets, comets, suns, and many other parts of the night, and he felt fulfilled. Unlike the courtists who have many a god, Diena's children believe all created was by her hand."
+ children_of_diena_high_god_name:0 "Diena"
+ children_of_diena_high_god_name_2:0 "$children_of_diena_high_god_name$" # Optional translation alt
+ children_of_diena_high_god_name_3:0 "$children_of_diena_high_god_name$" # Optional translation alt
+ children_of_diena_high_god_name_possessive:0 "Diena's"
+ children_of_diena_high_god_name_alternate:0 "The mother"
+ children_of_diena_high_god_name_alternate_possessive:0 "The Mothers's"
+ children_of_diena_good_god_diena:0 "$children_of_diena_health_god_name$"
+ children_of_diena_good_god_diena:0 "children_of_diena"
+ children_of_diena_devil_name:0 ""
+ children_of_diena_evil_god_hellish_beings:0 ""
+ children_of_diena_evil_god_ignorance:0 ""
+ children_of_diena_death_deity_name:0 "Death"
+ children_of_diena_death_deity_name_possessive:0 "Death's"
+ children_of_diena_house_of_worship:0 "church"
+ children_of_diena_house_of_worship_2:0 "$children_of_diena_of_diena_house_of_worship$" # Optional translation alt
+ children_of_diena_house_of_worship_3:0 "$children_of_diena_house_of_worship$" # Optional translation alt
+ children_of_diena_house_of_worship_plural:0 "churches"
+ children_of_diena_religious_symbol:0 "Mothers"
+ children_of_diena_religious_symbol_2:0 "$children_of_diena_religious_symbol$" # Optional translation alt
+ children_of_diena_religious_symbol_3:0 "$children_of_diena_religious_symbol$" # Optional translation alt
+ children_of_diena_religious_text:0 "scriptures"
+ children_of_diena_religious_text_2:0 "$children_of_diena_religious_text$" # Optional translation alt
+ children_of_diena_religious_text_3:0 "$children_of_diena_religious_text$" # Optional translation alt
+ children_of_diena_devotee_male:0 "Devout Son"
+ children_of_diena_devotee_male_plural:0 "Devout sons"
+ children_of_diena_devotee_female:0 "Devout daughter"
+ children_of_diena_devotee_female_plural:0 "Devout daughters"
+ children_of_diena_devotee_neuter:0 "Devout"
+ children_of_diena_devotee_neuter_plural:0 "Devouts"
+ children_of_diena_alternate_devotee_neuter_plural:0 "Canon"
+ children_of_diena_bishop:0 "bishop"
+ children_of_diena_bishop_plural:0 "bishops"
+ children_of_diena_positive_afterlife:0 "Eternal Love"
+ children_of_diena_positive_afterlife_2:1 "Undying Love" # Optional translation alt
+ children_of_diena_positive_afterlife_3:1 "$children_of_diena_high_god_name_possessive$ Kingdom" # Optional translation alt
+ children_of_diena_negative_afterlife:0 "hell"
+ children_of_diena_negative_afterlife_2:1 "the Pit" # Optional translation alt
+ children_of_diena_witchgodname:0 "$children_of_diena_high_god_name$"
+ children_of_diena_witchgodname_possessive:0 "$children_of_diena_high_god_name$"
+
+ children_of_diena_creator_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_creator_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_health_god_name:0 "st. Mekias"
+ children_of_diena_health_god_name_possessive:0 "st. Mekias'"
+ children_of_diena_fertility_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_fertility_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_wealth_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_wealth_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_household_god_name:0 "$children_of_diena_health_god_name$"
+ children_of_diena_household_god_name_possessive:0 "$children_of_diena_health_god_name_possessive$"
+ children_of_diena_of_diena_fate_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_fate_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_knowledge_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_knowledge_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_war_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_war_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_trickster_god_name:0 "Fortuna"
+ children_of_diena_trickster_god_name_possessive:0 "Fortuna's"
+ children_of_diena_night_god_name:0 "$children_of_diena_high_god_name$"
+ children_of_diena_night_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
+ children_of_diena_water_god_name:0 "$children_of_diena_health_god_name$"
+ children_of_diena_water_god_name_possessive:0 "$children_of_diena_health_god_name_possessive$"
+
+ #children_of_diena-Group Faiths
+ children_of_diena:0 "Children of Diena"
+ children_of_diena_adj:0 "Children of Diena"
+ children_of_diena_adherent:0 "Children of Diena"
+ children_of_diena_adherent_plural:0 "Children of Diena"
+ children_of_diena_desc:0 "In the beginning, the only thing that existed was Diena. Diena was the sole something in nothing. However, Diena desired to create, and so he took parts of himself to create. He made the stars, moons, planets, comets, suns, and many other parts of the night, and he felt fulfilled. Unlike the courtists who have many a god, Diena's children believe all created was by her hand."

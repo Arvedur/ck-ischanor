@@ -1,0 +1,322 @@
+﻿1 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_1
+	religion = court_of_aldreda
+	culture = zamareni
+	martial = 13
+	diplomacy = 11
+	intrigue = 9
+	stewardship = 13
+	learning = 11
+	1030.2.18 = {
+		birth = yes
+	}
+	1090.7.11 = {
+		death = yes
+	}
+}
+2 = {
+	name = "Radigas"
+	male = yes
+	dna = 2_radigas_char
+	dynasty = dynasty_10
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 18
+	learning = 10
+	1040.2.18 = {
+		birth = yes
+	}
+	1112.7.11 = {
+		death = yes
+	}
+}
+3 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_11
+	religion = court_of_aldreda
+	culture = zamareni
+	martial = 15
+	diplomacy = 10
+	intrigue = 15
+	stewardship = 10
+	learning = 10
+	1045.2.18 = {
+		birth = yes
+	}
+	1113.7.11 = {
+		death = yes
+	}
+}
+4 = {
+	name = "Fazin"
+	male = yes
+	dynasty = dynasty_6
+	religion = court_of_aldreda
+	culture = zamareni
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	1045.2.18 = {
+		birth = yes
+	}
+	1082.7.11 = {
+		death = yes
+	}
+}
+5 = {
+	name = "Arsino"
+	female = yes
+	dynasty = dynasty_6
+	religion = court_of_aldreda
+	culture = zamareni
+	martial = 12
+	diplomacy = 19
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	father = 4
+	1064.2.19 = {
+		birth = yes
+	}
+	1130.7.12 = {
+		death = yes
+	}
+}
+6 = {
+	name = "Varenna"
+	female = yes
+	religion = children_of_diena
+	culture = osjzari
+	martial = 7
+	diplomacy = 17
+	intrigue = 8
+	stewardship = 12
+	learning = 17
+	1042.2.19 = {
+		birth = yes
+	}
+    1060.1.1 = {
+    add_spouse = 2
+    }
+	1110.7.12 = {
+		death = yes
+	}
+}
+7 = {
+	name = "Toss"
+	male = yes
+	dynasty = dynasty_5
+	religion = court_of_aldreda
+	culture = german
+	martial = 13
+	diplomacy = 7
+	intrigue = 19
+	stewardship = 16
+	learning = 9
+	1044.2.18 = {
+		birth = yes
+	}
+	1092.7.11 = {
+		death = yes
+	}
+}
+9 = {
+	name = "Jan"
+	male = yes
+	dna = 9_jan_char
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_boravjek
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 18
+	learning = 10
+	1049.2.18 = {
+		birth = yes
+	}
+	1095.7.11 = {
+		death = yes
+	}
+}
+10 = {
+	name = "Lobard"
+	male = yes
+	dynasty = dynasty_13
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 15
+	intrigue = 8
+	stewardship = 12
+	learning = 10
+	prowess = 18
+	1044.2.18 = {
+		birth = yes
+	}
+	1095.7.11 = {
+		death = yes
+	}
+}
+35 = {
+	name = "Lobard"
+	female = yes
+	dynasty = dynasty_13
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 13
+	diplomacy = 16
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 17
+	931.5.30 = {
+		birth = yes
+	}
+	968.12.10 = {
+		death = {
+			death_reason = death_battle
+		}	
+	}
+}
+36 = {
+	name = "Pěnac"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_boravjek
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 9
+	intrigue = 9
+	stewardship = 14
+	learning = 13
+	prowess = 18
+	928.5.30 = {
+		birth = yes
+	}
+	968.12.10 = {
+		death = {
+			death_reason = death_battle
+		}	
+	}
+}
+39 = {
+	name = "Laž"
+	male = yes
+	dynasty = dynasty_13
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 16
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 16
+	931.5.30 = {
+		birth = yes
+	}
+	968.12.10 = {
+		death = {
+			death_reason = death_battle
+		}	
+	}
+}
+#Melys characters 11-34 & 40-42
+#Ernelavren characters 43-140 & 
+141 = {
+	name = "Otto"
+	male = yes
+	dynasty = dynasty_14
+	religion = children_of_diena
+	culture = osjzari
+	martial = 24
+	diplomacy = 14
+	intrigue = 9
+	stewardship = 12
+	learning = 16
+	prowess = 16
+	944.6.21 = {
+		birth = yes
+	}
+	991.10.12 = {
+		death = {
+			death_reason = death_natural_causes
+		}	
+	}
+}
+142 = {
+	name = "petr"
+	male = yes
+	dynasty = dynasty_14
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 17
+	intrigue = 9
+	stewardship = 19
+	learning = 12
+	prowess = 18
+	father = 141
+	962.5.12 = {
+		birth = yes
+	}
+	1001.12.10 = {
+		death = {
+			death_reason = death_hunting_mysterious
+		}	
+	}
+}
+143 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_14
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 12
+	learning = 15
+	prowess = 17
+	father = 142
+	988.7.23 = {
+		birth = yes
+	}
+	1032.1.10 = {
+		death = {
+			death_reason = death_accident
+		}	
+	}
+}
+144 = {
+	name = "Džejms"
+	male = yes
+	dynasty = dynasty_14
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 18
+	learning = 15
+	prowess = 17
+	father = 142
+	1010.7.23 = {
+		birth = yes
+	}
+	1079.1.10 = {
+		death = {
+			death_reason = death_ill
+		}	
+	}
+}

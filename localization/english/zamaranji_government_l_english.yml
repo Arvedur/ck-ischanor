@@ -1,0 +1,5 @@
+﻿l_english:
+ zamaranji_government:0 "zamaranji Feudalism"
+ zamaranji_government_desc:0 "Feudal Zamaranji Titles"
+ zamaranji_government_with_icon:0 "@government_type_feudal! $zamaranji_government$"
+ zamaranji_government_adjective:0 "Feudal  zamaranji"

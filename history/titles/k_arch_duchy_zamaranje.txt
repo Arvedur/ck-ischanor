@@ -1,0 +1,199 @@
+﻿k_arch_duchy_zamaranje = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = e_Ischanor
+    }
+
+    government = zamaranji_government
+
+}
+d_mrinje = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = k_arch_duchy_zamaranje
+    }
+}
+c_mrinje = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_mregnol = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+
+c_ljuzani = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 23 }
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_verjoci = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_vogast = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 21 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_vogace = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_vrzejra = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+c_velazre = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = d_mrinje
+    }
+}
+
+d_korosanec = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 4
+        liege = k_arch_duchy_zamaranje
+    }
+        1082.1.1 = {
+        holder = 5
+    }
+}
+c_korosanec = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 24 }
+
+   1066.1.1 = {
+        holder = 4
+        liege = d_korosanec
+    }
+    1082.1.1 = {
+        holder = 5
+    }
+}
+c_trevaniz = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 24 }
+
+   1066.1.1 = {
+        holder = 4
+        liege = d_korosanec
+    }
+    1082.1.1 = {
+        holder = 5
+    }
+}
+c_sikorosa = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 24 }
+
+   1066.1.1 = {
+        holder = 4
+        liege = d_korosanec
+    }
+    1082.1.1 = {
+        holder = 5
+    }
+}
+
+d_kudrezin = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+   1066.1.1 = {
+        holder = 3
+        liege = k_arch_duchy_zamaranje
+    }
+}
+c_kudrezin = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+   1066.1.1 = {
+        holder = 3
+        liege = d_kudrezin
+    }
+}
+c_nivkajna = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 23 }
+
+   1066.1.1 = {
+        holder = 3
+        liege = d_kudrezin
+    }
+}
+c_drivijn = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+   1066.1.1 = {
+        holder = 3
+        liege = d_kudrezin
+    }
+}
+

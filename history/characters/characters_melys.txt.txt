@@ -1,0 +1,654 @@
+﻿
+8 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 10
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	father = 18
+	1044.2.18 = {
+		birth = yes
+	}
+	1133.7.11 = {
+		death = yes
+	}
+}
+11 = {
+	name = "Makir"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 12
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 12
+	learning = 10
+	prowess = 14
+	father = 24
+	1049.2.18 = {
+		birth = yes
+	}
+	1095.7.11 = {
+		death = yes
+	}
+}
+12 = {
+	name = "Makir Pereč"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 19
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 12
+	learning = 16
+	prowess = 18
+	father = 11
+	1065.2.18 = {
+		birth = yes
+	}
+	1095.7.11 = {
+		death = yes
+	}
+}
+13 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 19
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	prowess = 17
+	father = 25
+	1045.2.18 = {
+		birth = yes
+	}
+	1095.7.11 = {
+		death = yes
+	}
+}
+14 = {
+	name = "Dicum"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 15
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	prowess = 19
+	mother = 8
+	1085.3.18 = {
+		birth = yes
+	}
+	1150.7.11 = {
+		death = yes
+	}
+}
+15 = {
+	name = "Mjenaž"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	prowess = 13
+    mother = 8
+	
+	1065.2.18 = {
+		birth = yes
+	}
+	1110.3.11 = {
+		death = yes
+	}
+}
+16 = {
+	name = "Devjana"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 10
+	diplomacy = 13
+	intrigue = 14
+	stewardship = 14
+	learning = 10
+	mother = 8
+	1066.1.18 = {
+		birth = yes
+	}
+	1132.4.11 = {
+		death = yes
+	}
+}
+17 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 11
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 16
+	learning = 10
+	mother = 8
+	1068.10.18 = {
+		birth = yes
+	}
+	1115.8.11 = {
+		death = yes
+	}
+}
+18 = {
+	name = "Měniž"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 19
+	learning = 10
+	father = 22
+	979.2.18 = {
+		birth = yes
+	}
+	1055.9.11 = {
+		death = yes
+	}
+}
+19 = {
+	name = "Sekarž"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 12
+	learning = 10
+	father = 18
+	1048.5.18 = {
+		birth = yes
+	}
+	1100.7.11 = {
+		death = yes
+	}
+}
+20 = {
+	name = "Dicum"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 12
+	learning = 10
+	father = 18
+	1052.6.12 = {
+		birth = yes
+	}
+	1089.7.20 = {
+		death = yes
+	}
+}
+21 = {
+	name = "Faroš"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 22
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 12
+	prowess = 21
+	learning = 10
+	father = 20
+	1070.2.12 = {
+		birth = yes
+	}
+	1089.6.21 = {
+		death = yes
+	}
+}
+22 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 15
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 18
+	learning = 10
+	prowess = 11
+	father = 27
+	960.3.11 = {
+		birth = yes
+	}
+	1002.3.11 = {
+		death = {
+			death_reason = death_smallpox
+		}
+	}
+}
+23 = {
+	name = "Vigaš"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 15
+	stewardship = 16
+	learning = 10
+	father = 22
+	983.9.30 = {
+		birth = yes
+	}
+	1037.9.11 = {
+		death = yes
+	}
+}
+24 = {
+	name = "Pěnac"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 17
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 8
+	learning = 17
+	father = 22
+	994.9.30 = {
+		birth = yes
+	}
+	1062.9.11 = {
+		death = yes
+	}
+}
+25 = {
+	name = "Bartoš"
+	male = yes
+	dynasty_house = dynasty_8
+	house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 15
+	stewardship = 16
+	learning = 10
+	father = 23
+	983.9.30 = {
+		birth = yes
+	}
+	1037.9.11 = {
+		death = yes
+	}
+}
+26 = {
+	name = "Nadož"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 10
+	stewardship = 17
+	learning = 10
+	father = 23
+	987.10.30 = {
+		birth = yes
+	}
+	1007.11.21 = {
+		death = {
+			death_reason = death_contest_joust_accident
+		}
+	}
+}
+27 = {
+	name = "Mjenaž"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 16
+	diplomacy = 12
+	intrigue = 11
+	stewardship = 12
+	learning = 10
+	father = 32
+	931.10.30 = {
+		birth = yes
+	}
+	977.7.21 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+28 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 15
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 16
+	learning = 12
+	father = 27
+	959.5.30 = {
+		birth = yes
+	}
+	990.8.1 = {
+		death = yes	
+	}
+}
+29 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 10
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 16
+	learning = 18
+	father = 27
+	965.5.22 = {
+		birth = yes
+	}
+	1010.8.1 = {
+		death = yes	
+	}
+}
+30 = {
+	name = "Vigaš"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 19
+	learning = 13
+	prowess = 20
+	father = 27
+	948.7.12 = {
+		birth = yes
+	}
+	968.9.10 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+31 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 10
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 16
+	learning = 18
+	father = 27
+	958.17.24 = {
+		birth = yes
+	}
+	961.10.13 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+32 = {
+	name = "Unknown"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+
+	910.7.23 = {
+		birth = yes
+	}
+	966.3.13 = {
+		death = {
+			death_reason = death_natural_causes
+		}	
+	}
+}
+33 = {
+	name = "Nadož"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 20
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 18
+	father = 32
+	928.5.30 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	969.8.12 = {
+		death = {
+			death_reason = death_cloven_in_half
+		}
+	}
+}
+34 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 16
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 17
+	father = 32
+	932.5.30 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	968.12.10 = {
+		death = {
+			death_reason = death_siege
+		}
+	}
+}
+37 = {
+	name = "Faroš"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 15
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 18
+	learning = 13
+	prowess = 16
+	934.7.20 = {
+		birth = yes
+	}
+	968.12.24 = {
+		death = {
+			death_reason = death_siege
+		}
+	}
+}
+38 = {
+	name = "Bartoš"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 19
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 10
+	learning = 13
+	prowess = 16
+	930.7.20 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	969.8.12 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+40 = {
+	name = "Nadož"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 19
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 18
+	father = 33
+	940.6.30 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	969.8.12 = {
+		death = {
+			death_reason = death_siege
+		}
+	}
+}
+41 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 14
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 17
+	learning = 13
+	prowess = 15
+	father = 33
+	950.5.30 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	971.1.6 = {
+		death = {
+			death_reason = death_murder
+		}	
+	}
+}
+42 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_8
+	dynasty_house = house_melys_thorn
+	religion = court_of_aldreda
+	culture = meycensau
+	martial = 20
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 12
+	learning = 13
+	prowess = 23
+	father = 33
+	956.5.30 = {
+		birth = yes
+	}
+    966.3.13 = {
+        set_house = house_melys_thorn
+    }
+	971.10.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

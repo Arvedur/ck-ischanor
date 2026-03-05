@@ -1,0 +1,3004 @@
+43 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 21
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 16
+	learning = 10
+    prowess = 24
+	412.2.21 = {
+		birth = yes
+	}
+	456.9.12 = {
+		death = yes
+	}
+}
+44 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 16
+	learning = 22
+    prowess = 12
+    father = 43
+	434.1.23 = {
+		birth = yes
+	}
+	498.1.24 = {
+		death = yes
+	}
+}
+45 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 18
+	learning = 9
+    father = 44
+	464.10.20 = {
+		birth = yes
+	}
+    511.1.29 = {
+		death = {
+           death_reason = death_hunting_mysterious
+        }
+	}
+}
+46 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 18
+	learning = 19
+    father = 45
+	481.11.23 = {
+		birth = yes
+	}
+	511.2.22 = {
+		death = {
+            death_reason = death_murder
+        }
+	}
+}
+47 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 18
+	learning = 9
+    prowess = 19
+    father = 45
+	492.3.22 = {
+		birth = yes
+	}
+	511.5.12 = {
+		death = {
+           death_reason = death_ill
+        }
+	}
+}
+48 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 23
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 12
+	learning = 9
+    prowess = 18
+    mother = 46
+	500.3.22 = {
+		birth = yes
+	}
+	536.5.22 = {
+		death = {
+           death_reason = death_wounded_1
+        }
+	}
+}
+49 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 19
+	learning = 9
+    prowess = 18
+    father = 48
+	527.1.20 = {
+		birth = yes
+	}
+	578.4.24 = {
+		death = {
+           death_reason = death_heart_attack
+        }
+	}
+}
+50 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 19
+	learning = 9
+    prowess = 18
+    father = 49
+	546.3.30 = {
+		birth = yes
+	}
+	569.7.24 = {
+		death = {
+           death_reason = death_assassination
+        }
+	}
+}
+51 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 49
+	549.3.30 = {
+		birth = yes
+	}
+	621.8.24 = {
+		death = yes
+	}
+}
+52 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 12
+	learning = 9
+    prowess = 14
+    father = 51
+	572.7.2 = {
+		birth = yes
+	}
+	626.11.3 = {
+		death = {
+            death_reason = death_battle
+        }
+	}
+}
+53 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 12
+	learning = 8
+    prowess = 17
+    father = 52
+	598.7.7 = {
+		birth = yes
+	}
+	644.8.29 = {
+		death = yes
+	}
+}
+54 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 11
+	intrigue = 8
+	stewardship = 15
+	learning = 8
+    prowess = 19
+    father = 53
+	619.12.8 = {
+		birth = yes
+	}
+	681.2.6 = {
+		death = yes
+	}
+}
+55 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 10
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 15
+	learning = 8
+    prowess = 12
+    father = 54
+	680.10.15 = {
+		birth = yes
+	}
+	696.10.6 = {
+		death = {
+        death_reason = death_lunatic
+        }
+	}
+}
+56 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 13
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 17
+	learning = 8
+    prowess = 14
+    father = 55
+	678.10.12 = {
+		birth = yes
+	}
+	733.12.1 = {
+		death = yes
+	}
+}
+57 = {
+	name = "Ladislav"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 8
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 17
+	learning = 20
+    prowess = 4
+    mother = 56
+	712.8.2 = {
+		birth = yes
+	}
+	769.12.23 = {
+		death = {
+            death_reason = death_bubonic_plague
+        }
+	}
+}
+58 = {
+	name = "Radogoš"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 8
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 17
+	learning = 20
+    prowess = 4
+    father = 57
+	738.9.15 = {
+		birth = yes
+	}
+	785.3.15 = {
+		death = {
+            death_reason = death_heart_attack
+        }
+	}
+}
+59 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 12
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 17
+	learning = 15
+    prowess = 27
+    father = 58
+	760.3.18 = {
+		birth = yes
+	}
+	806.4.19 = {
+		death = {
+            death_reason = death_stress
+        }
+	}
+}
+60 = {
+	name = "Laž"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 18
+	learning = 12
+    prowess = 23
+    father = 58
+	757.8.14 = {
+		birth = yes
+	}
+	784.4.19 = {
+		death = {
+            death_reason = death_contest_joust_accident
+            killer = 59
+        }
+	}
+}
+61 = {
+	name = "Ladislav"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 19
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 15
+	learning = 12
+    prowess = 17
+    father = 59
+	790.3.18 = {
+		birth = yes
+	}
+	845.8.19 = {
+		death = {
+            death_reason = death_ill
+        }
+	}
+}
+62 = {
+	name = "Ladislav"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 10
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 18
+	learning = 23
+    prowess = 12
+    father = 61
+	820.9.10 = {
+		birth = yes
+	}
+	857.7.29 = {
+		death = {
+            death_reason = death_camp_fever
+        }
+	}
+}
+63 = {
+	name = "Zevran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 20
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 10
+	learning = 12
+    prowess = 22
+    father = 61
+	820.9.10 = {
+		birth = yes
+	}
+	883.6.11 = {
+		death = {
+            death_reason = death_ill
+        }
+	}
+}
+64 = {
+	name = "Džejms"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 18
+	learning = 12
+    prowess = 16
+    father = 63
+	846.2.13 = {
+		birth = yes
+	}
+	932.8.12 = {
+		death = {
+            death_reason = death_ended_on_feast_table
+        }
+	}
+}
+65 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 17
+	learning = 12
+    prowess = 15
+    father = 64
+	871.2.15 = {
+		birth = yes
+	}
+	923.1.18 = {
+		death = {
+            death_reason = death_accident
+        }
+	}
+}
+66 = {
+	name = "Zevran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 10
+	learning = 12
+    prowess = 10
+    father = 65
+	912.3.13 = {
+		birth = yes
+	}
+	943.10.13 = {
+		death = {
+            death_reason = death_murder
+            killer = 67
+        }
+	}
+}
+67 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 13
+	learning = 0
+    prowess = 26
+    father = 65
+	929.1.2 = {
+		birth = yes
+	}
+	989.2.2 = {
+		death = {
+            death_reason = death_siege
+        }
+	}
+}
+68 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 19
+	learning = 4
+    prowess = 22
+    father = 67
+	958.12.3 = {
+		birth = yes
+	}
+	1019.2.2 = {
+		death = {
+            death_reason = death_natural_causes
+        }
+	}
+}
+69 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 13
+	learning = 10
+    prowess = 28
+    father = 67
+	960.10.2 = {
+		birth = yes
+	}
+	1029.2.2 = {
+		death = yes
+	}
+}
+70 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 13
+	diplomacy = 6
+	intrigue = 18
+	stewardship = 13
+	learning = 13
+    prowess = 10
+    father = 67
+	963.4.5 = {
+		birth = yes
+	}
+	988.12.12 = {
+		death = {
+            death_reason = death_siege
+        }
+	}
+}
+71 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 19
+	intrigue = 10
+	stewardship = 17
+	learning = 9
+    prowess = 22
+    father = 68
+	1000.10.13 = {
+		birth = yes
+	}
+	1047.3.20 = {
+		death = {
+            death_reason = death_contest_joust_accident
+        }
+	}
+}
+72 = {
+	name = "Zevran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 71
+	1035.10.13 = {
+		birth = yes
+	}
+	1079.7.25 = {
+		death = {
+            death_reason = death_ill
+        }
+	}
+}
+73 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 72
+	1056.7.19 = {
+		birth = yes
+	}
+	1156.12.21 = {
+		death = yes
+	}
+}
+#All characters past this point are not written into lore yet
+#Aestun I children and their decendants
+74 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 19
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 21
+    father = 43
+	436.5.17 = {
+		birth = yes
+	}
+	474.12.11 = {
+		death = yes
+	}
+}
+75 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 12
+    father = 43
+	437.3.3 = {
+		birth = yes
+	}
+	471.10.15 = {
+		death = yes
+	}
+}
+76 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 10
+    father = 43
+	440.3.7 = {
+		birth = yes
+	}
+	486.9.16 = {
+		death = yes
+	}
+}
+77 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 43
+	439.5.2 = {
+		birth = yes
+	}
+	479.8.15 = {
+		death = yes
+	}
+}
+78 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 14
+	learning = 9
+    prowess = 15
+    father = 75
+	459.10.10 = {
+		birth = yes
+	}
+	500.7.18 = {
+		death = yes
+	}
+}
+79 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 10
+	stewardship = 17
+	learning = 9
+    prowess = 16
+    father = 76
+	459.10.10 = {
+		birth = yes
+	}
+	500.7.18 = {
+		death = yes
+	}
+}
+80 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 20
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 16
+	learning = 9
+    prowess = 18
+    father = 76
+	459.10.10 = {
+		birth = yes
+	}
+	500.7.18 = {
+		death = yes
+	}
+}
+91 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 22
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 16
+	learning = 9
+    prowess = 16
+    father = 80
+	521.12.1 = {
+		birth = yes
+	}
+	562.3.22 = {
+		death = yes
+	}
+}
+81 = {
+	name = "Radogoš"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 80
+	524.1.1 = {
+		birth = yes
+	}
+	567.1.26 = {
+		death = yes
+	}
+}
+82 = {
+	name = "Radogoš"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 81
+	545.2.13 = {
+		birth = yes
+	}
+	567.12.14 = {
+		death = yes
+	}
+}
+83 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 78
+	481.1.1 = {
+		birth = yes
+	}
+	567.1.26 = {
+		death = yes
+	}
+}
+84 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 78
+	491.1.1 = {
+		birth = yes
+	}
+	524.1.26 = {
+		death = yes
+	}
+}
+85 = {
+	name = "Pěnac"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 74
+	477.1.1 = {
+		birth = yes
+	}
+	500.1.26 = {
+		death = yes
+	}
+}
+#decendants of Petr I
+86 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 24
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 44
+	467.5.14 = {
+		birth = yes
+	}
+	501.5.26 = {
+		death = yes
+	}
+}
+87 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 15
+    father = 44
+	465.7.16 = {
+		birth = yes
+	}
+	501.8.9 = {
+		death = yes
+	}
+}
+88 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 17
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 44
+	470.5.18 = {
+		birth = yes
+	}
+	507.8.20 = {
+		death = yes
+	}
+}
+89 = {
+	name = "Szanjik"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 19
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 23
+    father = 86
+	489.8.31 = {
+		birth = yes
+	}
+	527.5.26 = {
+		death = yes
+	}
+}
+90 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 16
+    father = 89
+	491.5.14 = {
+		birth = yes
+	}
+	531.8.31 = {
+		death = {
+			death_reason = death_tournament_melee_throat
+		}
+	}
+}
+92 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 19
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 16
+	learning = 9
+    prowess = 19
+    father = 86
+	491.5.14 = {
+		birth = yes
+	}
+	535.8.31 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+93 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 2
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	learning = 9
+    prowess = 6
+    father = 92
+	533.8.13 = {
+		birth = yes
+	}
+	535.8.31 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+94 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 16
+	learning = 9
+    prowess = 15
+    father = 90
+	528.2.15 = {
+		birth = yes
+	}
+	572.2.22 = {
+		death = yes
+	}
+}
+95 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 16
+    father = 90
+	529.6.17 = {
+		birth = yes
+	}
+	568.10.31 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+96 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 14
+	intrigue = 17
+	stewardship = 19
+	learning = 9
+    prowess = 18
+    father = 94
+	541.3.18 = {
+		birth = yes
+	}
+	600.7.29 = {
+		death = yes
+	}
+}
+97 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 16
+    father = 94
+	545.5.14 = {
+		birth = yes
+	}
+	598.8.31 = {
+		death = yes	
+	}
+}
+98 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 16
+    father = 89
+	550.5.14 = {
+		birth = yes
+	}
+	611.8.31 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+99 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 19
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 19
+    mother = 98
+	591.1.31 = {
+		birth = yes
+	}
+	650.8.12 = {
+		death = {
+			death_reason = death_tournament_melee_throat
+		}
+	}
+}
+100 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 99
+	627.9.14 = {
+		birth = yes
+	}
+	678.5.23 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+101 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 21
+	diplomacy = 16
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 18
+    father = 99
+	633.9.23 = {
+		birth = yes
+	}
+	677.7.16 = {
+		death = {
+			death_reason = death_dysentery
+		}
+	}
+}
+102 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 19
+	diplomacy = 19
+	intrigue = 12
+	stewardship = 19
+	learning = 9
+    prowess = 17
+    father = 100
+	655.4.17 = {
+		birth = yes
+	}
+	684.7.27 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+103 = {
+	name = "Makir"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 0
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 3
+	learning = 2
+    prowess = 0
+    father = 100
+	657.4.17 = {
+		birth = yes
+	}
+	661.7.22 {
+		death = {
+			death_reason = death_sickly
+		}
+	}
+}
+104 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 0
+	diplomacy = 10
+	intrigue = 12
+	stewardship = 9
+	learning = 9
+    prowess = 2
+    father = 100
+	660.4.17 = {
+		birth = yes
+	}
+	660.5.18 = {
+		death = {
+			death_reason = death_sickly
+		}
+	}
+}
+105 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 17
+    father = 102
+	679.4.4 = {
+		birth = yes
+	}
+	725.7.27 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+106 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 17
+    father = 105
+	700.4.4 = {
+		birth = yes
+	}
+	769.7.27 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+	}
+}
+107 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 17
+    father = 108
+	764.4.24 = {
+		birth = yes
+	}
+	769.7.27 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+	}
+}
+108 = {
+	name = "Džejms"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 19
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 15
+    father = 102
+	729.6.17 = {
+		birth = yes
+	}
+	772.8.29 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+	}
+}
+109 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_swannic
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 12
+	intrigue = 12
+	stewardship = 20
+	learning = 9
+    prowess = 10
+    father = 102
+	733.7.27 = {
+		birth = yes
+	}
+	769.7.27 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+	}
+}
+#Honza II decendants
+110 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 18
+    father = 48
+	531.3.20 = {
+		birth = yes
+	}
+	568.10.31 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+111 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 12
+    father = 48
+	533.3.20 = {
+		birth = yes
+	}
+	573.10.31 = {
+		death = {
+			death_reason = death_bandit_attack
+		}
+	}
+}
+112 = {
+	name = "Petr"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 15
+	learning = 9
+    prowess = 19
+    father = 111
+	555.6.23 = {
+		birth = yes
+	}
+	601.1.31 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+113 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 13
+	learning = 9
+    prowess = 19
+    father = 111
+	578.7.25 = {
+		birth = yes
+	}
+	605.10.20 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+114 = {
+	name = "Jeyna"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 12
+    father = 111
+	578.7.25 = {
+		birth = yes
+	}
+	605.10.20 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+#Honza III decendants
+115 = {
+	name = "Jěkub"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 15
+	learning = 18
+    prowess = 14
+    father = 49
+	550.7.25 = {
+		birth = yes
+	}
+	605.10.20 = {
+		death = {
+			death_reason = death_smallpox
+		}
+	}
+}
+116 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 10
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 15
+	learning = 18
+    prowess = 10
+    father = 115
+	587.7.25 = {
+		birth = yes
+	}
+	605.10.20 = {
+		death = {
+			death_reason = death_smallpox
+		}
+	}
+}
+#Aestun II 'the builder' Ernelavren decendants
+117 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 51
+	579.3.25 = {
+		birth = yes
+	}
+	612.8.27 = {
+		death = yes
+	}
+}
+118 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 51
+	577.12.30 = {
+		birth = yes
+	}
+	606.4.24 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+119 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 17
+	learning = 15
+    prowess = 12
+    father = 51
+	588.3.22 = {
+		birth = yes
+	}
+	621.10.21 = {
+		death = yes
+	}
+}
+120 = {
+	name = "Zevran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 117
+	598.8.30 = {
+		birth = yes
+	}
+	626.5.28 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+121 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 10
+	intrigue = 21
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 117
+	582.6.20 = {
+		birth = yes
+	}
+	621.11.24 = {
+		death = yes
+	}
+}
+122 = {
+	name = "Jěkub"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 120
+	622.7.20 = {
+		birth = yes
+	}
+	666.11.24 = {
+		death = yes
+	}
+}
+123 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 18
+	learning = 14
+    prowess = 16
+    father = 122
+	644.8.22 = {
+		birth = yes
+	}
+	683.7.10 = {
+		death = yes
+	}
+}
+124 = {
+	name = "Jěkub"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 122
+	648.7.27 = {
+		birth = yes
+	}
+	649.1.27 = {
+		death = {
+			death_reason = death_sickly
+		}
+	}
+}
+125 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 123
+	620.4.24 = {
+		birth = yes
+	}
+	620.5.10 = {
+		death = {
+			death_reason = death_smallpox
+		}
+	}
+}
+126 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 18
+	learning = 14
+    prowess = 12
+    father = 123
+	622.1.31 = {
+		birth = yes
+	}
+	678.5.10 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+127 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 12
+    father = 123
+	623.3.21 = {
+		birth = yes
+	}
+	689.7.11 = {
+		death = {
+			death_reason = death_heart_attack
+		}
+	}
+}
+128 = {
+	name = "Szanjik"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 19
+    father = 127
+	654.3.21 = {
+		birth = yes
+	}
+	711.7.11 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+129 = {
+	name = "Makir"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 17
+    father = 127
+	656.5.21 = {
+		birth = yes
+	}
+	723.5.11 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+130 = {
+	name = "Vigaš"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 19
+    prowess = 15
+    father = 126
+	653.3.3 = {
+		birth = yes
+	}
+	759.11.2 = {
+		death = {
+			death_reason = death_sickly
+		}
+	}
+}
+131 = {
+	name = "Pěnac"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 12
+	learning = 19
+    prowess = 20
+    father = 126
+	655.1.11 = {
+		birth = yes
+	}
+	719.9.23 = {
+		death = {
+			death_reason = death_stress
+		}
+	}
+}
+132 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 19
+	learning = 19
+    prowess = 15
+    father = 126
+	660.3.31 = {
+		birth = yes
+	}
+	713.10.23 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+133 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 16
+    prowess = 17
+    father = 126
+	653.3.31 = {
+		birth = yes
+	}
+	700.10.23 = {
+		death = {
+			death_reason = death_hunting_mysterious
+		}
+	}
+}
+135 = {
+	name = "Jeyna"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 19
+    prowess = 15
+    father = 126
+	666.3.31 = {
+		birth = yes
+	}
+	690.10.23 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+136 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 3
+	diplomacy = 3
+	intrigue = 1
+	stewardship = 1
+	learning = 1
+    prowess = 0
+    father = 135
+	690.10.23 = {
+		birth = yes
+	}
+	690.10.23 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+137 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 19
+    prowess = 18
+    father = 133
+	692.12.30 = {
+		birth = yes
+	}
+	733.3.13 = {
+		death = yes
+		
+	}
+}
+138 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 19
+    father = 133
+	699.7.20 = {
+		birth = yes
+	}
+	770.1.10 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+	}
+}
+139 = {
+	name = "Radogoš"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 19
+    prowess = 15
+    father = 138
+	720.1.30 = {
+		birth = yes
+	}
+	723.5.17 = {
+		death = {
+            death_reason = death_accident 
+		}
+		
+	}
+}
+134 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 17
+	learning = 10
+    prowess = 16
+    father = 137
+	718.4.30 = {
+		birth = yes
+	}
+	771.10.12 = {
+		death = {
+			death_reason = death_bubonic_plague
+		}
+		
+	}
+}
+140 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 17
+    prowess = 17
+    father = 133
+	730.1.25 = {
+		birth = yes
+	}
+	760.5.15 = {
+		death = yes
+		
+	}
+}
+145 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 13
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 134
+	739.4.10 = {
+		birth = yes
+	}
+	790.11.13 = {
+		death = {
+			death_reason = death_bandit_attack
+		}
+		
+	}
+}
+146 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+    prowess = 17
+    father = 145
+	760.7.29 = {
+		birth = yes
+	}
+	800.9.20 = {
+		death = {
+			death_reason = death_stress
+		}
+		
+	}
+}
+147 = {
+	name = "Aestun"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 17
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 146
+	785.10.25 = {
+		birth = yes
+	}
+	829.8.12 = {
+		death = {
+			death_reason = death_ill
+		}
+		
+	}
+}
+149 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 10
+    prowess = 16
+    father = 147
+	806.2.23 = {
+		birth = yes
+	}
+	850.8.1 = {
+		death = {
+			death_reason = death_camp_fever
+		}
+		
+	}
+}
+148 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 19
+	diplomacy = 15
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 147
+	810.11.25 = {
+		birth = yes
+	}
+	844.4.12 = {
+		death = {
+			death_reason = death_horse
+		}
+		
+	}
+}
+150 = {
+	name = "Hvrajni"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 148
+	840.11.26 = {
+		birth = yes
+	}
+	854.2.11 = {
+		death = yes
+		
+	}
+}
+151 = {
+	name = "Makir"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 17
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 148
+	842.6.12 = {
+		birth = yes
+	}
+	861.7.23 = {
+		death = {
+			death_reason = death_fire
+		}
+		
+	}
+}
+152 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	learning = 10
+    prowess = 8
+    father = 151
+	854.8.13 = {
+		birth = yes
+	}
+	861.7.23 = {
+		death = {
+			death_reason = death_fire
+		}
+		
+	}
+}
+153 = {
+	name = "Benic"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 19
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 149
+	826.3.21 = {
+		birth = yes
+	}
+	888.9.10 = {
+		death = {
+			death_reason = death_ill
+		}
+		
+	}
+}
+154 = {
+	name = "Zevran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 15
+	intrigue = 8
+	stewardship = 17
+	learning = 10
+    prowess = 16
+    father = 153
+	848.4.25 = {
+		birth = yes
+	}
+	902.10.15 = {
+		death = {
+			death_reason = death_ill
+		}
+		
+	}
+}
+155 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 10
+    prowess = 16
+    father = 154
+	892.7.26 = {
+		birth = yes
+	}
+	932.1.15 = {
+		death = {
+			death_reason = death_hunting_mysterious
+		}
+		
+	}
+}
+156 = {
+	name = "Jěkub"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 15
+	learning = 14
+    prowess = 18
+    father = 155
+	919.6.4 = {
+		birth = yes
+	}
+	977.4.14 = {
+		death = {
+			death_reason = death_heart_attack
+		}
+		
+	}
+}
+157 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 13
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 14
+    prowess = 17
+    father = 156
+	944.10.14 = {
+		birth = yes
+	}
+	992.3.13 = {
+		death = {
+			death_reason = death_lost_in_the_bog
+		}
+		
+	}
+}
+158 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 8
+	learning = 14
+    prowess = 17
+    father = 157
+	984.9.24 = {
+		birth = yes
+	}
+	1050.2.21 = {
+		death = {
+			death_reason = death_accident
+		}
+		
+	}
+}
+159 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 14
+    prowess = 16
+    father = 158
+	1002.8.21 = {
+		birth = yes
+	}
+	1067.5.23 = {
+		death = {
+			death_reason = death_accident
+		}
+		
+	}
+}
+
+160 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 14
+    prowess = 16
+    father = 159
+	1039.5.13 = {
+		birth = yes
+	}
+	1079.6.27 = {
+		death = {
+			death_reason = death_battle
+		}
+		
+	}
+}
+161 = {
+	name = "Merek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 14
+    prowess = 16
+    father = 159
+	1041.6.10 = {
+		birth = yes
+	}
+	1079.6.27 = {
+		death = {
+			death_reason = death_battle
+		}
+		
+	}
+}
+162 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 14
+    prowess = 16
+    father = 159
+	1043.3.4 = {
+		birth = yes
+	}
+	1079.7.20 = {
+		death = {
+			death_reason = death_execution
+		}
+		
+	}
+}
+163 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 5
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 7
+	learning = 14
+    prowess = 8
+    father = 151
+	856.8.13 = {
+		birth = yes
+	}
+	861.7.23 = {
+		death = {
+			death_reason = death_fire
+		}
+		
+	}
+}
+164 = {
+	name = "Jan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 17
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 21
+    father = 148
+	845.1.2 = {
+		birth = yes
+	}
+	867.7.23 = {
+		death = {
+			death_reason = death_fire
+		}
+		
+	}
+}
+165 = {
+	name = "Hinyek"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 15
+	learning = 10
+    prowess = 16
+    father = 145
+	761.12.2 = {
+		birth = yes
+	}
+	812.7.14 = {
+		death = {
+			death_reason = death_
+		}
+		
+	}
+}
+166 = {
+	name = "Anateja"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 17
+	learning = 10
+    prowess = 12
+    father = 145
+	764.7.29 = {
+		birth = yes
+	}
+	802.10.21 = {
+		death = {
+			death_reason = death_childbirth
+		}	
+	}
+}
+167 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_builder
+	religion = children_of_diena
+	culture = osjzari
+	martial = 0
+	diplomacy = 0
+	intrigue = 0
+	stewardship = 0
+	learning = 0
+    prowess = 0
+    father = 145
+	802.10.21 = {
+		birth = yes
+	}
+	802.10.21 = {
+		death = {
+			death_reason = death_childbirth
+		}	
+	}
+}
+#decendants of Merek the fat
+168 = {
+	name = "Jana"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 10
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 19
+	learning = 14
+    prowess = 7
+    father = 67
+	956.11.24 = {
+		birth = yes
+	}
+	1006.2.21 = {
+		death = {
+            death_reason = death_natural_causes
+        }
+	}
+}
+169 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 10
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 4
+    prowess = 10
+    father = 67
+	965.2.4 = {
+		birth = yes
+	}
+	985.3.12 = {
+		death = {
+            death_reason = death_murder
+			killer = 67
+        }
+	}
+}
+#Aestun III Siblings
+170 = {
+	name = "Honza"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 13
+	intrigue = 14
+	stewardship = 16
+	learning = 9
+    prowess = 17
+    father = 72
+	1058.7.19 = {
+		birth = yes
+	}
+	1102.12.21 = {
+		death = yes
+	}
+}
+171 = {
+	name = "Diena"
+	female = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 14
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 17
+	learning = 9
+    prowess = 14
+    father = 72
+	1056.10.13 = {
+		birth = yes
+	}
+	1156.1.12 = {
+		death = yes
+	}
+}
+172 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 15
+	intrigue = 12
+	stewardship = 16
+	learning = 9
+    prowess = 19
+    father = 72
+	1062.5.13 = {
+		birth = yes
+	}
+	1122.6.21 = {
+		death = yes
+	}
+}
+#Ladislav's Bastards
+173 = {
+	name = "Ladislav"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_silver
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 15
+	learning = 12
+    prowess = 20
+    father = 62
+	trait = bastard
+	trait = organizer
+	trait = brave
+	trait = gallant
+	trait = lifestyle_blademaster
+	851.10.10 = {
+		birth = yes
+	}
+	873.5.15 = {
+		death = {
+            death_reason = death_battle
+        }
+	}
+    857.7.29 = {
+        claim = { title = d_szevrotol
+        pressed = yes }
+    }
+}
+174 = {
+	name = "Joran"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_silver
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 18
+	intrigue = 8
+	stewardship = 13
+	learning = 12
+    prowess = 22
+    father = 62
+	trait = bastard
+	trait = brave
+	trait = gallant
+	trait = lifestyle_blademaster
+	853.10.10 = {
+		birth = yes
+	}
+	873.5.15 = {
+		death = {
+            death_reason = death_battle
+        }
+	}
+    857.7.29 = {
+        claim = { title = d_szevrotol
+        pressed = yes }
+    }
+}
+#Ladislav's bastards main line
+175 = {
+	name = "Ladislav"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_silver
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 15
+	learning = 12
+    prowess = 19
+    father = 173
+	trait = brave
+	trait = gallant
+	871.2.13 = {
+		birth = yes
+	}
+	910.12.3 = {
+		death = {
+            death_reason = death_execution
+        }
+	}
+    873.5.15 = {
+        claim = { title = d_szevrotol
+        pressed = yes }
+    }
+}
+176 = {
+	name = "Szanjik"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_silver
+	religion = children_of_diena
+	culture = osjzari
+	martial = 18
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 15
+	learning = 12
+    prowess = 19
+    father = 173
+	trait = brave
+	trait = gallant
+	872.4.15 = {
+		birth = yes
+	}
+	910.12.3 = {
+		death = {
+            death_reason = death_ill
+        }
+	}
+    873.5.15 = {
+        claim = { title = d_szevrotol
+        pressed = no }
+    }
+}
+177 = {
+	name = "Anateja"
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_silver
+	religion = children_of_diena
+	culture = osjzari
+	martial = 15
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 12
+    prowess = 19
+    father = 173
+	873.2.22 = {
+		birth = yes
+	}
+	917.1.24 = {
+		death = {
+            death_reason = death_murder
+        }
+	}
+    873.5.15 = {
+        claim = { title = d_szevrotol
+        pressed = no }
+	}
+}

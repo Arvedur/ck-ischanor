@@ -1,0 +1,5 @@
+﻿l_english:
+ vedanican_government:0 "Vědanican Feudalism"
+ vedanican_government_desc:0 "Feudal Vědanican titles"
+ vedanican_government_with_icon:0 "@government_type_feudal! $vedanican_government$"
+ vedanican_government_adjective:0 "Feudal Vědanican"

@@ -1,0 +1,410 @@
+k_grand_duchy_vedanica = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 8 }
+	1101.1.1 = { change_development_level = 14 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = e_Ischanor
+    }
+    
+    1066.1.1 = {
+    government = vedanican_government
+
+    }
+}
+
+d_varennapered = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = k_grand_duchy_vedanica
+    }
+}
+c_varennapered = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+c_mecydrav = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 20 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = d_varennapered
+    }
+}
+c_sranervkas = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 21 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = d_varennapered
+    }
+}
+c_clynaci = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 19 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+c_gravjasvau = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+c_karjaven = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 7 }
+	1178.1.1 = { change_development_level = 20 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+c_mecyznaj = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 21 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+c_uljiz = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 9 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 6
+        liege = d_varennapered
+    }
+}
+
+d_march_of_meycensau = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 8
+        liege = k_grand_duchy_vedanica
+    }
+    966.3.13 = {
+        holder = 27
+        liege = k_grand_duchy_vedanica
+    }
+}
+c_meycensau = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 8
+        liege = d_march_of_meycensau
+    }
+    966.3.13 = {
+        holder = 27
+        liege = k_grand_duchy_vedanica
+    }
+}
+c_vlejrasau = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 8
+        liege = d_march_of_meycensau
+    }
+}
+c_trosanjek = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 20 }
+
+    1066.1.1 = {
+        holder = 8
+        liege = d_march_of_meycensau
+    }
+        966.3.13 = {
+        holder = 27
+        liege = k_grand_duchy_vedanica
+    }
+}
+c_stravinec = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 8
+        liege = d_march_of_meycensau
+    }
+    966.3.13 = {
+        holder = 33
+        liege = d_march_of_meycensau
+    }
+}
+c_ljuvrz = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 13
+        liege = d_march_of_meycensau
+    }
+}
+c_nojanji = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 11 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 13
+        liege = d_march_of_meycensau
+    }
+}
+c_blisanc = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 21 }
+
+    1066.1.1 = {
+        holder = 11
+        liege = d_march_of_meycensau
+    }
+}
+c_boravjek = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 9
+        liege = d_march_of_meycensau
+    }
+    933.7.30 = {
+        holder = 36
+    }
+}
+c_drazenji = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 9
+        liege = d_march_of_meycensau
+    }
+}
+c_kalinva = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 10
+        liege = d_march_of_meycensau
+    }
+    920.2.27 = {
+        holder = 35
+    }
+}
+d_szevrotol = {
+    592.4.15 = { holder = 51 }
+    621.8.25 = { holder = 52 }
+    626.11.4 = { holder = 53 }
+    644.8.31 = { holder = 54 }
+    681.2.16 = { holder = 55 }
+    696.10.9 = { holder = 56 } 
+    733.12.8 = { holder = 57 }
+    769.12.24 = { holder = 58 }
+    785.3.17 = { holder = 59 }
+    806.4.20 = { holder = 61 }
+    845.4.21 = { holder = 62 }
+    853.5.23 = { holder = 63 }
+    856.11.14 = { holder = 62 }
+    857.10.25 = { holder = 63 }
+    867.1.3 = { change_development_level = 7 }
+    883.6.14 = { holder = 64 }
+    932.8.12 = { holder = 66 }
+    943.10.14 = {holder = 67 }
+    989.2.13 = { holder = 68 }
+    1019.2.3 = { holder = 71 }
+    1047.3.21 = { holder = 72 }
+    1066.1.1 = {
+        holder = 72
+        liege = k_grand_duchy_vedanica
+        change_development_level = 13
+    }
+	1178.1.1 = { change_development_level = 24 }
+}
+c_szevrotol = {
+    431.2.2 = { holder = 43 }
+    456.9.13 = { holder = 44 }
+    498.1.25 = { holder = 45 }
+    511.2.1 = { holder = 47 }
+    511.5.12 = { holder = 48 }
+    536.5.23 = { holder = 49 }
+    578.4.25 = { holder = 51 }
+    621.8.25 = { holder = 52 }
+    626.11.4 = { holder = 53 }
+    644.8.31 = { holder = 54 }
+    681.2.16 = { holder = 55 }
+    696.10.9 = { holder = 56 } 
+    733.12.8 = { holder = 57 }
+    769.12.24 = { holder = 58 }
+    785.3.17 = { holder = 59 }
+    806.4.20 = { holder = 61 }
+    845.4.21 = { holder = 62 }
+    853.5.23 = { holder = 63 }
+    856.11.14 = { holder = 62 }
+    857.10.25 = { holder = 63 }
+    867.1.3 = { change_development_level = 7 }
+    883.6.26 = { holder = 64 }
+    932.8.12 = { holder = 66 }
+    943.10.14 = {holder = 67 }
+    989.2.13 = { holder = 68 }
+    1019.2.3 = { holder = 71 }
+    1047.3.21 = { holder = 72 }
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 16
+    }
+	1178.1.1 = { change_development_level = 24 }
+}
+c_lavrejnica = {
+	867.1.1 = { change_development_level = 7 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 13
+    }
+}
+c_janoszec = {
+	867.1.1 = { change_development_level = 5 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 10
+    }
+}
+c_konanoje = {
+    772.3.2 = { holder = 145}
+    790.11.25 = { holder = 146}
+    800.9.23 = { holder = 147 }
+    829.8.15 = { holder = 149 }
+    850.8.2 = { holder =  153 }
+    867.1.1 = { change_development_level = 5 }
+    888.9.14 = { holder =  154 }
+    902.10.18 = { holder =  155 }
+    932.1.16 = { holder =  156 }
+    977.4.14 = { holder =  157 }
+    992.3.15 = { holder =  158 }
+    1050.2.24 =  { holder =  159}
+    1066.1.1 = {
+        holder = 159
+        liege = d_szevrotol
+        change_development_level = 16
+    }
+    1067.5.25 = { holder = 160 }
+    179.6.27 = { holder = 162 }
+    1079.7.20 = { holder =  73 }
+	1178.1.1 = { change_development_level = 24 }      
+}
+c_pranasec = {
+	867.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 14
+    }
+}
+c_berseklejek = {
+	867.1.1 = { change_development_level = 4 }
+	1178.1.1 = { change_development_level = 20 }
+
+    1066.1.1 = {
+        holder = 144
+        liege = d_szevrotol
+        change_development_level = 9
+    }
+}
+c_cidraczi = {
+	867.1.1 = { change_development_level = 5 }
+	1178.1.1 = { change_development_level = 21 }
+
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 8
+    }
+}
+c_sranerca = {
+    772.3.2 = { holder = 145}
+    790.11.25 = { holder = 146}
+    800.9.23 = { holder =  148 }
+    844.4.12 = { holder =  150 }
+    861.7.23 = { holder =  153 }
+	867.1.1 = { change_development_level = 5 }
+    888.9.14 = { holder =  154 }
+    902.10.18 = { holder =  155 }
+    932.1.16 = { holder =  156 }
+    977.4.14 = { holder =  157 }
+    992.3.15 = { holder =  158 }
+    1050.2.24 =  { holder =  159}
+    1066.1.1 = {
+        holder = 159
+        liege = d_szevrotol
+        change_development_level = 13
+    }
+    1067.5.25 = { holder =  160 }
+    179.6.27 = { holder =  162 }
+    1079.7.28 = { holder =  73 }
+	1178.1.1 = { change_development_level = 24 }
+}
+c_szevrotol_wip3 = {
+	867.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 19 }
+
+    1066.1.1 = {
+        holder = 72
+        liege = d_szevrotol
+        change_development_level = 6
+    }
+}
