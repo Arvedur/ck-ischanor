@@ -1,0 +1,71 @@
+﻿dynasty_1 = {
+    name = "dynn_velis"
+    culture = zamareni
+
+}
+dynasty_2 = {
+    name = "dynn_mijeni"
+    culture = zamareni
+
+}
+dynasty_3 = {
+    name = "dynn_blisajnjek"
+    culture = zamareni
+
+}
+dynasty_4 = {
+    name = "dynn_sazvanji"
+    culture = zamareni
+
+}
+dynasty_5 = {
+    name = "dynn_lorenin"
+    culture = german
+
+}
+dynasty_6 = {
+    name = "dynn_pazenji"
+    culture = zamareni
+
+}
+dynasty_7 = {
+    name = "dynn_elmo"
+    culture = zamareni
+
+}
+dynasty_8 = {
+    name = "dynn_melys"
+    culture = meycensau
+    motto = dynn_melys_motto
+}
+dynasty_9 = {
+    name = "dynn_fornheimr"
+    culture = osjzari
+
+}
+dynasty_10 = {
+    name = "dynn_rydani"
+    culture = osjzari
+    motto = dynn_rydani_motto
+}
+dynasty_11 = {
+    name = "dynn_kudrezin"
+    culture = zamareni
+
+}
+dynasty_12 = {
+    name = "dynn_ernelavren"
+    culture = osjzari
+    motto = dynn_ernelavren_motto
+}
+
+dynasty_13 = {
+    name = "dynn_Jasyn"
+    culture = meycensau
+    motto = dynn_jasyn_motto
+}
+dynasty_14 = {
+    name = "dynn_ve_bersekles"
+    culture = meycensau
+    motto = dynn__ve_bersekles_motto
+}

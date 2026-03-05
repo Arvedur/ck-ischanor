@@ -1,0 +1,154 @@
+﻿baron_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = barony
+    priority = 5
+    government = {
+        vedanican_government
+    }
+}
+
+baron_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = barony
+    priority = 5
+    government = {
+        vedanican_government
+    }
+}
+
+baron_vedanican_feudal = {
+    type = character
+    tier = barony
+    priority = 5
+    government = {
+        vedanican_government
+    }
+}
+
+count_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = county
+    priority = 16
+    government = {
+        vedanican_government
+    }
+}
+
+count_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = county
+    priority = 16
+    government = {
+        vedanican_government
+    }
+}
+
+count_vedanican_feudal = {
+    type = character
+    tier = county
+    priority = 16
+    government = {
+        vedanican_government
+    }
+}
+
+duke_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = duchy
+    priority = 26
+    government = {
+        vedanican_government
+    }
+}
+
+duke_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = duchy
+    priority = 26
+    government = {
+        vedanican_government
+    }
+}
+
+duke_vedanican_feudal = {
+    type = character
+    tier = duchy
+    priority = 26
+    government = {
+        vedanican_government
+    }
+}
+
+king_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = kingdom
+    priority = 46
+    government = {
+        vedanican_government
+    }
+}
+
+king_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = kingdom
+    priority = 46
+    government = {
+        vedanican_government
+    }
+}
+
+king_vedanican_feudal = {
+    type = character
+    tier = kingdom
+    priority = 46
+    government = {
+        vedanican_government
+    }
+}
+
+emperor_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = empire
+    priority = 101
+    government = {
+        vedanican_government
+    }
+}
+
+emperor_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = empire
+    priority = 101
+    government = {
+        vedanican_government
+    }
+}
+
+emperor_vedanican_feudal = {
+    type = character
+    tier = empire
+    priority = 101
+    government = {
+        vedanican_government
+    }
+}

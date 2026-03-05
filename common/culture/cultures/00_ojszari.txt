@@ -1,0 +1,87 @@
+﻿osjzari = {
+	color = { 1.0 0.44 0.37 } # The color of the culture, used e.g. on the map
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_west_slavic
+	language = language_vedanican
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_castle_keepers
+		tradition_monastic_communities
+		tradition_wetlanders
+		tradition_chanson_de_geste
+		tradition_culinary_art
+	}
+
+	name_list = name_list_osjzari  
+
+	culture_group_coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	culture_group_building_gfx = { western_building_gfx }
+	culture_group_clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
+	culture_group_unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		28 = slavic_blond
+		2 = slavic_ginger
+		45 = slavic_brown_hair
+		25 = slavic_dark_hair
+	}
+}
+zamareni = {
+	color = { 0.96 0.73 1.0 } 
+	
+	ethos = ethos_courtly
+	heritage = heritage_west_slavic
+	language = language_zamareni
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_castle_keepers
+		tradition_monastic_communities
+		tradition_maritime_mercantilism
+		tradition_seafaring
+		tradition_culinary_art
+	}
+
+	name_list = name_list_zamareni 
+
+	culture_group_coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	culture_group_building_gfx = { mediterranean_building_gfx }
+	culture_group_clothing_gfx = { western_clothing_gfx }
+	culture_group_unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		15 = slavic_blond
+		1 = slavic_ginger
+		45 = slavic_brown_hair
+		39 = slavic_dark_hair
+	}
+}
+meycensau = {
+	color = {0.8 0.5 0.2} # The color of the culture, used e.g. on the map
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_west_slavic
+	language = language_vedanican
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_castle_keepers
+		tradition_monastic_communities
+		tradition_mountaineer_ruralism
+		tradition_chanson_de_geste
+		tradition_faith_bound
+	}
+
+	name_list = name_list_osjzari  
+
+	culture_group_coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	culture_group_building_gfx = { western_building_gfx }
+	culture_group_clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
+	culture_group_unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		28 = slavic_blond
+		2 = slavic_ginger
+		45 = slavic_brown_hair
+		25 = slavic_dark_hair
+	}
+}

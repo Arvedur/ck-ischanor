@@ -1,0 +1,755 @@
+﻿ e_ischanor = {
+    color = { 204 0 0 }
+    color2 = { 255 255 255 }
+    capital = c_mrinje
+
+    k_grand_duchy_vedanica = {
+        color = { 220 60 60 }
+        color2 = { 255 255 255 }
+        definite_form = yes
+        short_name = yes
+        capital = c_varennapared
+
+        d_varennapered = {
+            color = { 255 102 102 }
+            color2 = { 255 255 255 }
+            capital = c_varennapared
+
+            c_varennapered = {
+                color = { 255 100 100 }
+                color2 = { 255 255 255 }
+ 
+                b_varennapered = {
+                    province = 45
+                }
+                b_koani = {
+                    province = 47
+                }
+                b_tlonji = {
+                     province = 50
+                }
+                b_vrecanic = {
+                     province = 46
+                }
+                b_kauvinic = {
+                     province = 48
+                }
+                b_vraulik = {
+                     province = 49
+                }
+            }
+            c_mecydrav = {
+                color = { 255 178 102 }
+                color2 = { 255 255 255 }
+ 
+                b_mecydrav = {
+                    province = 55
+                }
+                b_kalasnojik = {
+                    province = 56
+                }
+                b_vrecanji = {
+                     province = 57
+                }
+            } 
+            c_sranervkas = {
+                color = { 255 204 229 }
+                color2 = { 255 255 255 }
+ 
+                b_sranervkas = {
+                    province = 51
+                }
+                b_cumanij = {
+                    province = 53
+                }
+                b_cidrau = {
+                     province = 54
+                }
+                b_telyn = {
+                     province = 52
+                }
+            } 
+            c_clynaci = {
+                color = { 255 51 51 }
+                color2 = { 255 255 255 }
+ 
+                b_clynaci = {
+                    province = 66
+                }
+                b_gesas = {
+                    province = 67
+                }
+                b_sokaji = {
+                     province = 68
+                }
+            }
+            c_gravjasvau = {
+                color = { 255 160 122 }
+                color2 = { 255 255 255 }
+ 
+                b_gravjasvau = {
+                    province = 71
+                }
+                b_rotonji = {
+                    province = 70
+                }
+                b_verovyz = {
+                     province = 69
+                }
+            }
+            c_karjaven = {
+                color = { 255 140 0 }
+                color2 = { 255 255 255 }
+ 
+                b_karjaven = {
+                    province = 62
+                }
+                b_konjavyz = {
+                    province = 61
+                }
+                b_jalitz = {
+                     province = 63
+                }
+            }
+            c_mecyznaj = {
+                color = { 255 160 0 }
+                color2 = { 255 255 255 }
+ 
+                b_mecyznaj = {
+                    province = 60
+                }
+                b_varepsi = {
+                    province = 58
+                }
+                b_nivalji = {
+                     province = 59
+                }
+            }
+            c_uljiz = {
+                color = { 255 160 122 }
+                color2 = { 255 255 255 }
+ 
+                b_uljiz = {
+                    province = 64
+                }
+                b_naljitzi = {
+                    province = 65
+                }
+            }
+        }
+
+    
+        d_march_of_meycensau = {
+            color = { 217 193 103 }
+            color2 = { 255 255 255 }
+            definite_form = yes
+            short_name = yes
+            capital = c_meycensau
+
+            c_meycensau = {
+                color = { 217 193 103 }
+                color2 = { 255 255 255 }
+ 
+                b_meycensau = {
+                    province = 103
+                }
+                b_mecyven = {
+                    province = 101
+                }
+                b_nivolas = {
+                     province = 100
+                }
+                b_svaumoc = {
+                     province = 104
+                }
+                b_sekarive = {
+                     province = 102
+                }
+                b_valnovi = {
+                     province = 105
+                }
+                b_rotonec = {
+                     province = 106
+                }
+            }
+            c_vlejrasau = {
+                color = { 238 232 170 }
+                color2 = { 255 255 255 }
+ 
+                b_vlejrasau = {
+                    province = 96
+                }
+                b_vlejravolys = {
+                    province = 93
+                }
+                b_stylvol = {
+                     province = 92
+                }
+                b_meznaniv = {
+                     province = 94
+                }
+                b_covasau = {
+                     province = 95
+                }
+            } 
+            c_trosanjek = {
+                color = { 255 239 213 }
+                color2 = { 255 255 255 }
+ 
+                b_trosanjek = {
+                    province = 77
+                }
+                b_bravnac = {
+                    province = 79
+                }
+                b_tosnji = {
+                     province = 78
+                }
+            } 
+            c_stravinec = {
+                color = { 255 140 10 }
+                color2 = { 255 255 255 }
+ 
+                b_stravinec = {
+                    province = 97
+                }
+                b_covacini = {
+                    province = 98
+                }
+                b_dreskanji = {
+                     province = 99
+                }
+            }
+            c_ljuvrz = {
+                color = { 255 250 205 }
+                color2 = { 255 255 255 }
+ 
+                b_ljuvrz = {
+                    province = 76
+                }
+                b_blinavic = {
+                    province = 74
+                }
+                b_veroki = {
+                     province = 75
+                }
+            }
+            c_nojanji = {
+                color = { 160 82 45 }
+                color2 = { 255 255 255 }
+ 
+                b_nojanji = {
+                    province = 73
+                }
+                b_norevrati = {
+                    province = 72
+                }
+            }
+            c_blisanc = {
+                color = { 167 183 141 }
+                color2 = { 255 255 255 }
+ 
+                b_blisanvrotol = {
+                    province = 89
+                }
+                b_blisanc = {
+                    province = 88
+                }
+                b_vjevrz = {
+                     province = 90
+                }
+                b_mecynvrz = {
+                     province = 91
+                }
+            }
+            c_drazenji = {
+                color = { 227 222 203 }
+                color2 = { 255 255 255 }
+ 
+                b_drazenji = {
+                    province = 86
+                }
+                b_zelrini = {
+                    province = 87
+                }
+            }
+            c_boravjek = {
+                color = { 145 142 133 }
+                color2 = { 255 255 255 }
+ 
+                b_boravjek = {
+                    province = 83
+                }
+                b_boranici = {
+                    province = 84
+                }
+                b_nivanji = {
+                    province = 85
+                }
+            }
+            c_kalinva = {
+                color = { 233 213 131 }
+                color2 = { 255 255 255 }
+ 
+                b_kalvinva = {
+                    province = 80
+                }
+                b_grecina = {
+                    province = 81
+                }
+                b_pojskadrazina = {
+                    province = 82
+                }
+            }
+        }
+        d_szevrotol = {
+            color = { 51 51 255 }
+            color2 = { 255 255 255 }
+            capital = c_szevrotol
+
+            c_szevrotol = {
+                color = { 51 51 255 }
+                color2 = { 255 255 255 }
+
+                b_szevrotol = {
+                    province = 110
+                }
+                b_szevren = {
+                    province = 111
+                }
+                b_perecin = {
+                    province = 112
+                }
+                b_volanic = {
+                    province = 113
+                }
+                b_vijaven = {
+                    province = 114
+                }
+                b_erynec = {
+                    province = 115
+                }
+                b_vijernec = {
+                    province = 155
+                }
+            }
+            c_lavrejnica = {
+                color = { 245 245 255 }
+                color2 = { 255 255 255 }
+
+                b_lavrejnica = {
+                    province = 121
+                }
+                b_garzici = {
+                    province = 122
+                }
+                b_ernelavrotol = {
+                    province = 123
+                }
+                b_sokani = {
+                    province = 124
+                }
+            }
+            c_janoszec = {
+                color = { 128 0 0 }
+                color2 = { 255 255 255 }
+
+                b_janoszec = {
+                    province = 125
+                }
+                b_catjow = {
+                    province = 126
+                }
+                b_noricz = {
+                    province = 127
+                }
+                b_jalyc = {
+                    province = 128
+                }
+            }
+            c_konanoje = {
+                color = { 153 153 255 }
+                color2 = { 255 255 255 }
+
+                b_konanoje = {
+                    province = 129
+                }
+                b_pereci= {
+                    province = 130
+                }
+                b_konajek = {
+                    province = 131
+                }
+                b_forwa = {
+                    province = 132
+                }
+                b_kolawi = {
+                    province = 133
+                }
+            }
+            c_pranasec = {
+                color = { 70 130 180 }
+                color2 = { 255 255 255 }
+
+                b_pranasec = {
+                    province = 116 
+                }
+                b_konaven = {
+                    province = 117 
+                }
+            }
+            c_berseklejek = {
+                color = { 154 205 50 }
+                color2 = { 255 255 255 }
+
+                b_berseklejek = {
+                    province = 134
+                }
+                b_veutacyn = {
+                    province = 135
+                }
+                b_cztacat = {
+                    province = 136
+                }
+                b_loreji = {
+                    province = 137
+                }
+                b_kecat = {
+                    province = 138
+                }
+            }
+            c_sranerca = {
+                color = { 255 99 71 }
+                color2 = { 255 255 255 }
+
+                b_sranerca = {
+                    province = 139
+                }
+                b_lonci = {
+                    province = 140
+                }
+                b_javenil = {
+                    province = 141
+                }
+                b_clynawa = {
+                    province = 142
+                }
+                b_lowitzo = {
+                    province = 143
+                }
+                b_veci = {
+                    province = 144
+                }
+            }
+            c_dienatev = {
+                color = { 156 153 153 }
+                color2 = { 255 255 255 }
+
+                b_dienatev = {
+                    province = 118
+                }
+                b_numjonic = {
+                    province = 119
+                }
+                b_vysaniczas = {
+                    province = 120
+                }
+            }
+            c_cidraczi = {
+                color = { 187 169 163 }
+                color2 = { 255 255 255 }
+
+                b_cidraczi = {
+                    province = 145
+                }
+                b_vijaryn = {
+                    province = 146
+                }
+                b_saunec = {
+                    province = 147
+                }
+                b_ktatlas = {
+                    province = 148
+                }
+                b_wautici = {
+                    province = 149
+                }
+            }
+            c_szevrotol_wip3 = {
+                color = { 212 169 126 }
+                color2 = { 255 255 255 }
+
+                b_szevrotol_wip3_1 = {
+                    province = 150
+                }
+                b_szevrotol_wip3_2 = {
+                    province = 151
+                }
+                b_szevrotol_wip3_3 = {
+                    province = 152
+                }
+                b_szevrotol_wip3_4 = {
+                    province = 153
+                }
+                b_szevrotol_wip3_5 = {
+                    province = 154
+                }
+                b_szevrotol_wip3_6 = {
+                    province = 44
+                }
+            }
+        }
+        d_veloktol = {
+        color = { 152 163 221 }
+        color2 = { 255 255 255 }
+        capital = c_veloktol
+
+           c_veloktol = {
+            color = { 152 163 221 }
+            color2 = { 255 255 255 }
+
+                b_veloktol = { 
+                    province = 107 
+                }
+                b_gesavelk = { 
+                    province = 108 
+                }
+                b_klasyn   = { 
+                    province = 109 
+                }
+            }
+        }
+    }
+
+    k_arch_duchy_zamaranje = {
+        color = { 153 204 255 }
+        color2 = { 255 255 255 }
+        definite_form = yes
+        short_name = yes
+        capital = c_mrinje
+
+        d_mrinje = {
+            color = { 26 32 194 }
+            color2 = { 255 255 255 }
+            dynamic_title_name = no
+            definite_form = yes
+            short_name = yes
+            capital = c_mrinje
+             
+            c_mrinje = {
+                color = { 99 102 211 }
+                color2 = { 255 255 255 }
+ 
+                b_sazrenji = {
+                    province = 20
+                }
+                b_mrinje = {
+                    province = 21
+                }
+                b_vezane = {
+                     province = 19
+                }
+            }     
+
+            c_ljuzani = {
+                color = { 26 32 194 }
+                color2 = { 255 255 255 }
+                  
+                b_ljuzani = {
+                    province = 15
+                }
+                b_veraniv = {
+                    province = 16
+                }  
+                b_trevanick = {
+                    province = 17
+                }
+                b_virin = {
+                    province = 18
+                }
+            }
+            
+            c_mregnol = {
+                color = { 80 50 255 }
+                color2 = { 255 255 255 }
+
+                b_mregnol = {
+                    province = 26
+                }
+                b_zoradrev = {
+                    province = 27   
+                }
+                b_vrzadev = {
+                    province = 25
+                }
+            }
+            c_velazre = {
+                color = { 106 107 138 }
+                color2 = { 255 255 255 }
+
+                b_velazre = {
+                    province = 22
+                }
+                b_zdace = {
+                    province = 23
+                }
+                b_ckeni = {
+                    province = 24
+                }
+            }
+            c_verjoci = {
+                color = { 204 255 255 }
+                color2 = { 255 255 255 }
+
+                b_verjoci = {
+                    province = 13
+                }
+                b_spjist = {
+                    province = 14
+                }
+            }
+
+            c_vogast = {
+                color = { 173 255 40 }
+                color2 = { 255 255 255 }
+
+                b_sjataverko = {
+                    province = 39
+                }
+                b_vanjisa = {
+                    province = 38
+                }
+            }
+            c_vogace = {
+                color = { 140 238 120 }
+                color2 = { 255 255 255 }
+
+                b_vogace = {
+                    province = 41 
+                }
+                b_hevriz = {
+                    province = 40
+                }
+            }
+            c_vrzejra = {
+                color = { 111 143 106 }
+                color2 = { 255 255 255 }
+
+                b_vrzejra = {
+                    province = 42  
+                }
+                b_najlav = {
+                    province = 43 
+                }
+            }
+        }
+        d_korosanec = {
+            color = { 212 212 200 }
+            color2 = { 255 255 255 }
+            definite_form = yes
+            short_name = yes
+            dynamic_title_name = no
+            capital = c_korosanec
+
+            c_korosanec = {
+                color = { 212 212 200 }
+                color2 = { 255 255 255 }
+
+                b_korosanec = {
+                     province = 8
+                }
+                b_korosa = {
+                    province = 10
+                }
+            }
+            c_trevaniz = {
+                color = { 185 178 68 }
+                color2 = { 255 255 255 }
+
+                b_trevaniz = {
+                    province = 11
+                }
+                b_dresij = {
+                    province = 9
+                }
+                b_prinje = {
+                    province = 12
+                }
+            }    
+            c_sikorosa = {
+                color = { 193 185 119 }
+                color2 = { 255 255 255 }
+
+                b_sikorosa = {
+                    province = 6
+                }
+                b_brezic = {
+                    province = 7
+                }
+                b_vosini = {
+                    province = 5
+                }
+                b_viriz = {
+                    province = 4
+                }
+                b_sdraliz = {
+                    province = 3
+                }
+            }
+        }
+        d_kudrezin = {
+            color = { 50 90 90 }
+            color2 = { 255 255 255 }
+            definite_form = yes
+            short_name = yes
+            dynamic_title_name = no
+            capital = c_kudrezin
+
+            c_kudrezin = {
+                color = { 50 90 90 }
+                color2 = { 255 255 255 }
+ 
+                b_kudrezin = {
+                    province = 36
+                }
+                b_blisanic = {
+                    province = 34
+                }
+                b_nivkjacki = {
+                    province = 35
+                }
+                b_melira = {
+                    province = 37
+                }
+            }
+            c_nivkajna = {
+                color = { 102 205 170 }
+                color2 = { 255 255 255 }
+ 
+                b_nivkajna= {
+                    province = 32
+                }
+                b_ljuzici = {
+                    province = 30
+                }
+                b_pojska = {
+                    province = 31
+                }
+                b_srivonov = {
+                    province = 33
+                }
+            }  
+            c_drivijn = {
+                color = { 232 208 234 }
+                color2 = { 255 255 255 }
+ 
+                b_drivijn= {
+                    province = 28
+                }
+                b_stravi = {
+                    province = 29
+                }
+            }   
+        }
+    }
+}

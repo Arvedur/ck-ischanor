@@ -1,0 +1,44 @@
+﻿on_game_start = {
+    on_actions = {
+        vedanican_on_game_start_government_change
+    }
+}
+vedanican_on_game_start_change = {
+    effect = {
+        every_ruler = {
+            if = {
+                limit = {
+                    current_date < 1066.1.1
+                    OR = {
+                        culture = { has_cultural_pillar = heratage_osjzari }
+                        has_culture = culture:osjzari
+                    }
+                    NOT = { government_has_flag = government_is_theocracy }
+                }
+                change_government = vedanican_government
+            }
+        }
+    }
+}
+on_game_start = {
+    on_actions = {
+        zamaranji_on_game_start_government_change
+    }
+}
+zamaranji_on_game_start_change = {
+    effect = {
+        every_ruler = {
+            if = {
+                limit = {
+                    current_date < 1066.1.1
+                    OR = {
+                        culture = { has_cultural_pillar = heratage_zamareni }
+                        has_culture = culture:zamareni
+                    }
+                    NOT = { government_has_flag = government_is_theocracy }
+                }
+                change_government = zamaranji_government
+            }
+        }
+    }
+}

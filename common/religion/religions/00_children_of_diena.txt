@@ -1,0 +1,231 @@
+﻿
+children_of_diena_religion = {
+	family = rf_pagan
+	graphical_faith = dharmic_gfx
+	icon = children_of_diena_broach
+
+	#Main Group
+	doctrine = doctrine_monotheist
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_must_be_approved
+	doctrine = doctrine_bastardry_legitimisation
+	doctrine = doctrine_consanguinity_close_kin_taboo
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_shunned
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_alms_and_pacification
+	doctrine = doctrine_clerical_gender_equal
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+
+
+	traits = {
+		virtues = { just compassionate honest brave ambitious }
+		sins = { wrathful sadistic deceitful }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_of_mekias"}
+		{ name = "holy_order_of_diena"}
+	}
+
+	holy_order_maa = { Zbrojnosh }
+
+	reserved_male_names = {Mekias}
+	reserved_female_names = {Diena}
+
+	localization = {
+		#HighGodName
+		HighGodName = children_of_diena_high_god_name
+		HighGodName2 = children_of_diena_high_god_name_2
+		HighGodNamePossessive = children_of_diena_high_god_name_possessive
+		HighGodNameSheHe = children_of_diena_high_god_shehe
+		HighGodHerselfHimself = children_of_diena_high_god_herselfhimself
+		HighGodHerHis = children_of_diena_high_god_herhis
+		HighGodNameAlternate = children_of_diena_high_god_alternate
+		HighGodNameAlternatePossessive = children_of_diena_high_god_alternate_possessive
+
+		#Creator
+		CreatorName = children_of_diena_creator_god_name
+		CreatorNamePossessive = children_of_diena_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = children_of_diena_health_god_name
+		HealthGodNamePossessive = children_of_diena_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = children_of_diena_fertility_god_name
+		FertilityGodNamePossessive = children_of_diena_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = children_of_diena_wealth_god_name
+		WealthGodNamePossessive = children_of_diena_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = children_of_diena_household_god_name
+		HouseholdGodNamePossessive = children_of_diena_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = children_of_diena_fate_god_name
+		FateGodNamePossessive = children_of_diena_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = children_of_diena_knowledge_god_name
+		KnowledgeGodNamePossessive = children_of_diena_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = children_of_diena_war_god_name
+		WarGodNamePossessive = children_of_diena_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = children_of_diena_trickster_god_name
+		TricksterGodNamePossessive = children_of_diena_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_IT
+		TricksterGodHerHis = CHARACTER_HERHIS_ITS
+		TricksterGodHerHim = CHARACTER_HERHIM_IT
+
+		#NightGod
+		NightGodName = children_of_diena_night_god_name
+		NightGodNamePossessive = children_of_diena_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = children_of_diena_water_god_name
+		WaterGodNamePossessive = children_of_diena_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+		
+		PantheonTerm = religion_the_gods
+		PantheonTerm2 = religion_the_gods_2
+		PantheonTerm3 = religion_the_gods_3
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			children_of_diena_high_god_name
+			children_of_diena_high_god_alternate
+			children_of_diena_good_god_diena
+		}
+		DevilName = children_of_diena_devil_name
+		DevilNamePossessive = children_of_diena_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = children_of_diena_devil_herselfhimself
+		EvilGodNames = {
+			children_of_diena_devil_name
+			children_of_diena_evil_god_hellish_beings
+			children_of_diena_evil_god_ignorance
+		}
+		HouseOfWorship = children_of_diena_house_of_worship
+		HouseOfWorship2 = children_of_diena_house_of_worship_2
+		HouseOfWorship3 = children_of_diena_house_of_worship_3
+		HouseOfWorshipPlural = children_of_diena_house_of_worship_plural
+		ReligiousSymbol = children_of_diena_religious_symbol
+		ReligiousSymbol2 = children_of_diena_religious_symbol_2
+		ReligiousSymbol3 = children_of_diena_religious_symbol_3
+		ReligiousText = children_of_diena_religious_text
+		ReligiousText2 = children_of_diena_religious_text_2
+		ReligiousText3 = children_of_diena_religious_text_3
+		ReligiousHeadName = children_of_diena_religious_head_title
+		ReligiousHeadTitleName = children_of_diena_religious_head_title_name
+		DevoteeMale = children_of_diena_devotee_male
+		DevoteeMalePlural = children_of_diena_devotee_male_plural
+		DevoteeFemale = children_of_diena_devotee_female
+		DevoteeFemalePlural = children_of_diena_devotee_female_plural
+		DevoteeNeuter = children_of_diena_devotee_neuter
+		DevoteeNeuterPlural = children_of_diena_neuter_plural
+		PriestMale = children_of_diena_devotee_male
+		PriestMalePlural = children_of_diena_devotee_male_plural
+		PriestFemale = children_of_diena_devotee_female
+		PriestFemalePlural = children_of_diena_devotee_female_plural
+		PriestNeuter = children_of_diena_devotee_neuter
+		PriestNeuterPlural = children_of_diena_devotee_neuter_plural
+		AltPriestTermPlural = children_of_diena_alternate_priest_term_plural
+		BishopMale = children_of_diena_bishop
+		BishopMalePlural = children_of_diena_bishop_plural
+		BishopFemale = children_of_diena_bishop
+		BishopFemalePlural = children_of_diena_bishop_plural
+		BishopNeuter = children_of_diena_bishop
+		BishopNeuterPlural = children_of_diena_bishop_plural
+		DivineRealm = children_of_diena_divine_realm
+		DivineRealm2 = children_of_diena_divine_realm_2
+		DivineRealm3 = children_of_diena_divine_realm_3
+		PositiveAfterLife = children_of_diena_positive_afterlife
+		PositiveAfterLife2 = children_of_diena_positive_afterlife_2
+		PositiveAfterLife3 = children_of_diena_positive_afterlife_3
+		NegativeAfterLife = children_of_diena_negative_afterlife
+		NegativeAfterLife2 = children_of_diena_negative_afterlife_2
+		NegativeAfterLife3 = children_of_diena_negative_afterlife_3
+		DeathDeityName = children_of_diena_death_deity
+		DeathDeityNamePossessive = children_of_diena_death_deity_possessive
+		DeathDeitySheHe = children_of_diena_death_deity_shehe
+		DeathDeityHerHis = children_of_diena_death_deity_herhis
+		WitchGodName = witchgod_children_of_diena_the_devas
+		WitchGodNamePossessive = witchgod_children_of_diena_the_devas_possessive
+		WitchGodSheHe = witchgod_shehe_they
+		WitchGodHerHis = witchgod_herhis_their
+		WitchGodHerHim = witchgod_herhim_them
+		WitchGodMistressMaster = witch_spirit
+		WitchGodMotherFather = witch_source
+
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
+
+		piety_icon_group = Abrahamic
+	}
+
+	faiths = {
+		children_of_diena = {
+			color = { 1.0 1.0 0.4 }
+			icon = children_of_diena_broach
+
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_monasticism
+			doctrine = tenet_unrelenting_faith
+
+			piety_icon_group = Abrahamic
+	    }
+	}
+}

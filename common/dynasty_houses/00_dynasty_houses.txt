@@ -1,0 +1,39 @@
+﻿house_ernelavren = {
+    dynasty = dynasty_12
+    name = house_ernelavren
+    motto = house_ernelavren_motto
+}
+
+house_ernelavren_boravjek = {
+    dynasty = dynasty_12
+    name = house_ernelavren_boravjek
+    motto = house_ernelavren_boravjek_motto
+}
+house_ernelavren_swannic = {
+    dynasty = dynasty_12
+    name = house_ernelavren_swannic
+    motto = house_ernelavren_swannic_motto
+}
+house_ernelavren_builder = {
+    dynasty = dynasty_12
+    name = house_ernelavren_builder
+    motto = house_ernelavren_builder_motto
+}
+house_ernelavren_silver = {
+    dynasty = dynasty_12
+    name = house_ernelavren_silver
+    motto = house_ernelavren_silver_motto
+    founder = 173
+}
+house_melys = {
+    dynasty = dynasty_8
+    name = house_melys
+    motto = house_melys_motto
+}
+
+house_melys_thorn = {
+    dynasty = dynasty_8
+    name = house_melys_thorn
+    founder = 33
+    motto = house_melys_thorn_motto
+}
