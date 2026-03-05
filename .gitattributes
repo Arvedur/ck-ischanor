@@ -1,3 +1,7 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.dds filter=lfs diff=lfs merge=lfs -text
 C:/Users/ashto/OneDrive/Documents/Paradox[[:space:]]Interactive/Crusader[[:space:]]Kings[[:space:]]III/mod/ck-ischanor/gfx/map/terrain/colormap.dds filter=lfs diff=lfs merge=lfs -text
+C:/Users/ashto/OneDrive/Documents/Paradox[[:space:]]Interactive/Crusader[[:space:]]Kings[[:space:]]III/mod/ck-ischanor/gfx/map/terrain/detail_index.tga filter=lfs diff=lfs merge=lfs -text
+C:/Users/ashto/OneDrive/Documents/Paradox[[:space:]]Interactive/Crusader[[:space:]]Kings[[:space:]]III/mod/ck-ischanor/gfx/map/terrain/detail_intensity.tga filter=lfs diff=lfs merge=lfs -text
+C:/Users/ashto/OneDrive/Documents/Paradox[[:space:]]Interactive/Crusader[[:space:]]Kings[[:space:]]III/mod/ck-ischanor/gfx/map/terrain/flat_maps/flatmap.dds filter=lfs diff=lfs merge=lfs -text
+C:/Users/ashto/OneDrive/Documents/Paradox[[:space:]]Interactive/Crusader[[:space:]]Kings[[:space:]]III/mod/ck-ischanor/gfx/map/terrain/flat_maps/flatmap_tgp.dds filter=lfs diff=lfs merge=lfs -text
