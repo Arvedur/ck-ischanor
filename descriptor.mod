@@ -3,6 +3,7 @@ tags={
 	"Total Conversion"
 }
 name="Ck3-Kejafros"
+picture="thumbnail.png"
 replace_path="common/landed_titles"
 replace_path="common/province_terrain"
 replace_path="history/characters"
