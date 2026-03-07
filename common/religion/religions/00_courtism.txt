@@ -1,0 +1,280 @@
+﻿
+courtism_religion = {
+	family = rf_ischanic
+	icon = courtist_icon
+
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = abrahamic_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_polytheist
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_must_be_approved
+	doctrine = doctrine_bastardry_legitimisation
+	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_dynastic_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_crime
+
+	#clerical Functions
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+
+	#Special Doctrine for courtism_religion Syncretism
+	# make sure to add it here @arvdur & make the tenet
+
+	#Allow pilgrimages
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Funeral tradition
+	doctrine = doctrine_funeral_stoic
+
+	#Coronation tradition
+	doctrine = doctrine_imperial_anointment   
+
+	traits = {
+		virtues = { just honest brave }
+		sins = { deceitful craven arbitrary }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s custom_faith_magatama custom_faith_soto custom_faith_benzhuism
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_berserkers_of_thuggius"}
+		{ name = "holy_order_jusiticiars_of_macelanor"}
+		{ name = "holy_order_of_the_xelian_spear"}
+	}
+
+	holy_order_maa = { armored_horsemen }
+
+	localization = {
+		#HighGodName
+		HighGodName = courtism_high_god_name
+		HighGodName2 = courtism_high_god_name_2
+		HighGodNamePossessive = courtism_high_god_name_possessive
+		HighGodNameSheHe = courtism_high_god_shehe
+		HighGodHerselfHimself = courtism_high_god_herselfhimself
+		HighGodHerHis = courtism_high_god_herhis
+		HighGodNameAlternate = courtism_high_god_alternate
+		HighGodNameAlternatePossessive = courtism_high_god_alternate_possessive
+
+		#Creator
+		CreatorName = courtism_creator_god_name
+		CreatorNamePossessive = courtism_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = courtism_health_god_name
+		HealthGodNamePossessive = courtism_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = courtism_fertility_god_name
+		FertilityGodNamePossessive = courtism_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = courtism_wealth_god_name
+		WealthGodNamePossessive = courtism_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = courtism_fate_god_name
+		FateGodNamePossessive = courtism_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = courtism_knowledge_god_name
+		KnowledgeGodNamePossessive = courtism_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = courtism_war_god_name
+		WarGodNamePossessive = courtism_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = courtism_trickster_god_name
+		TricksterGodNamePossessive = courtism_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_IT
+		TricksterGodHerHis = CHARACTER_HERHIS_ITS
+		TricksterGodHerHim = CHARACTER_HERHIM_IT
+
+		#NightGod
+		NightGodName = courtism_night_god_name
+		NightGodNamePossessive = courtism_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = courtism_water_god_name
+		WaterGodNamePossessive = courtism_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#Heros, Brutality and Chaos god
+		chaosGodName = courtism_chaos_god_name
+		chaosGodNamePossessive = courtism_chaos_god_name_possessive
+		chaosGodSheHe = CHARACTER_SHEHE_HE
+		chaosGodHerHis = CHARACTER_HERHIS_HIS
+		chaosGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#Justicegod
+		justiceGodName = courtism_justice_god_name
+		justiceGodNamePossessive = courtism_justice_god_name_possessive
+		justiceGodSheHe = CHARACTER_SHEHE_HE
+	    justiceGodHerHis = CHARACTER_HERHIS_HIS
+		justiceGodHerHim = CHARACTER_HERHIM_HIM
+
+		#Luckgod
+		luckGodName = courtism_luck_god_name
+		luckGodNamePossessive = courtism_luck_god_name_possessive
+		luckGodSheHe = CHARACTER_SHEHE_HE
+	    luckGodHerHis = CHARACTER_HERHIS_HIS
+		luckGodHerHim = CHARACTER_HERHIM_HIM
+
+		#Lightgod
+		lightGodName = courtism_light_god_name
+		lightGodNamePossessive = courtism_light_god_name_possessive
+		lightGodSheHe = CHARACTER_SHEHE_HE
+	    lightGodHerHis = CHARACTER_HERHIS_HIS
+		lightGodHerHim = CHARACTER_HERHIM_HIM
+
+		PantheonTerm = religion_the_gods
+		PantheonTerm2 = religion_the_gods_2
+		PantheonTerm3 = religion_the_gods_3
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			courtism_high_god_name
+			courtism_high_god_alternate
+            courtism_war_god_name
+            courtism_war_god_name_possessive	
+			courtism_trickster_god_name
+			courtism_trickster_god_name_possessive
+			courtism_wealth_god_name
+			courtism_wealth_god_name_possessive
+			courtism_night_god_name
+			courtism_night_god_name_possessive
+			courtism_chaos_god_name
+			courtism_chaos_god_name_possessive
+			courtism_justice_god_name
+			courtism_justice_god_name_possessive
+			courtism_luck_god_name
+			courtism_luck_god_name_possessive
+		}
+		EvilGodNames = {
+			courtism_death_deity_possessive
+			courtism_death_deity
+		}
+		HouseOfWorship = courtism_house_of_worship
+		HouseOfWorship2 = courtism_house_of_worship_2
+		HouseOfWorship3 = courtism_house_of_worship_3
+		HouseOfWorshipPlural = courtism_house_of_worship_plural
+		ReligiousSymbol = courtism_religious_symbol
+		ReligiousSymbol2 = courtism_religious_symbol_2
+		ReligiousSymbol3 = courtism_religious_symbol_3
+		ReligiousText = courtism_religious_text
+		ReligiousText2 = courtism_religious_text_2
+		ReligiousText3 = courtism_religious_text_3
+		ReligiousHeadName = courtism_religious_head_title
+		ReligiousHeadTitleName = courtism_religious_head_title_name
+		DevoteeMale = courtism_devotee_male
+		DevoteeMalePlural = courtism_devotee_male_plural
+		DevoteeFemale = courtism_devotee_female
+		DevoteeFemalePlural = courtism_devotee_female_plural
+		DevoteeNeuter = courtism_devotee_neuter
+		DevoteeNeuterPlural = courtism_neuter_plural
+		PriestMale = courtism_priest_male
+		PriestMalePlural = courtism_priest_male_plural
+		PriestFemale = courtism_priest_female
+		PriestFemalePlural = courtism_priest_female_plural
+		PriestNeuter = courtism_priest_neuter
+		PriestNeuterPlural = courtism_priest_neuter_plural
+		AltPriestTermPlural = courtism_alternate_priest_term_plural
+		BishopMale = courtism_bishop
+		BishopMalePlural = courtism_bishop_plural
+		BishopFemale = courtism_bishop
+		BishopFemalePlural = courtism_bishop_plural
+		BishopNeuter = courtism_bishop
+		BishopNeuterPlural = courtism_bishop_plural
+		DivineRealm = courtism_divine_realm
+		DivineRealm2 = courtism_divine_realm_2
+		DivineRealm3 = courtism_divine_realm_3
+		PositiveAfterLife = courtism_positive_afterlife
+		PositiveAfterLife2 = courtism_positive_afterlife_2
+		PositiveAfterLife3 = courtism_positive_afterlife_3
+		NegativeAfterLife = courtism_negative_afterlife
+		NegativeAfterLife2 = courtism_negative_afterlife_2
+		NegativeAfterLife3 = courtism_negative_afterlife_3
+		DeathDeityName = courtism_death_deity
+		DeathDeityNamePossessive = courtism_death_deity_possessive
+		DeathDeitySheHe = courtism_death_deity_shehe
+		DeathDeityHerHis = courtism_death_deity_herhis
+		WitchGodName = witchgod_courtism_religiona_the_devas
+		WitchGodNamePossessive = witchgod_courtism_the_devas_possessive
+		WitchGodSheHe = witchgod_shehe_they
+		WitchGodHerHis = witchgod_herhis_their
+		WitchGodHerHim = witchgod_herhim_them
+		WitchGodMistressMaster = witch_spirit
+		WitchGodMotherFather = witch_source
+
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
+
+		piety_icon_group = Abrahamic
+	}
+
+	faiths = {
+		courtism = {
+			color = { 0.68 0.05 0.0 }
+			icon = courtism_icon
+
+			doctrine = tenet_communion
+			doctrine = tenet_monasticism
+			doctrine = tenet_armed_pilgimages
+
+			piety_icon_group = Abrahamic
+		}
+		měcynec_courtism = {
+			color = { 0.8 0.47 0.13 }
+			icon = courtism_icon
+
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_monasticism
+			doctrine = tenet_armed_pilgimages
+
+			piety_icon_group = Abrahamic
+		}
+	}
+}

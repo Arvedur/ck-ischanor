@@ -5,12 +5,12 @@
 	dynasty_house = house_ernelavren
 	religion = children_of_diena
 	culture = osjzari
-	martial = 21
+	martial = 19
 	diplomacy = 10
 	intrigue = 8
 	stewardship = 16
 	learning = 10
-    prowess = 24
+    prowess = 23
 	412.2.21 = {
 		birth = yes
 	}
@@ -2854,7 +2854,7 @@
 }
 #Ladislav's Bastards
 173 = {
-	name = "Ladislav"
+	name = "Szavlańek"
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_silver
@@ -2886,7 +2886,7 @@
     }
 }
 174 = {
-	name = "Joran"
+	name = "Ladislav"
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_silver

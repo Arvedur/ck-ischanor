@@ -1,7 +1,6 @@
 ﻿
 children_of_diena_religion = {
-	family = rf_pagan
-	graphical_faith = dharmic_gfx
+	family = rf_ischanic
 	icon = children_of_diena_broach
 
 	#Main Group

@@ -10,7 +10,7 @@
 }
 6 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 7 = {
@@ -18,7 +18,7 @@
 }
 8 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 9 = {
@@ -29,7 +29,7 @@
 }
 11 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 12 = {
@@ -37,7 +37,7 @@
 }
 13 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 14 = {
@@ -45,7 +45,7 @@
 }
 15 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 16 = {
@@ -62,7 +62,7 @@
 }
 20 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 21 = {
@@ -70,7 +70,7 @@
 }
 22 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 23 = {
@@ -84,7 +84,7 @@
 }
 26 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 27 = {
@@ -92,7 +92,7 @@
 }
 28 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 29 = {
@@ -106,7 +106,7 @@
 }
 32 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 33 = {
@@ -120,7 +120,7 @@
 }
 36 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 37 = {
@@ -131,7 +131,7 @@
 }
 39 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 40 = {
@@ -139,12 +139,12 @@
 }
 41 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 42 = {
 	culture = zamareni
-	religion = court_of_aldreda
+	religion = courtism
 	holding = castle
 }
 43 = {

@@ -2,7 +2,7 @@
 	name = "Kolan"
 	male = yes
 	dynasty = dynasty_1
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = zamareni
 	martial = 13
 	diplomacy = 11
@@ -39,7 +39,7 @@
 	name = "Devjan"
 	male = yes
 	dynasty = dynasty_11
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = zamareni
 	martial = 15
 	diplomacy = 10
@@ -57,7 +57,7 @@
 	name = "Fazin"
 	male = yes
 	dynasty = dynasty_6
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = zamareni
 	martial = 15
 	diplomacy = 10
@@ -75,7 +75,7 @@
 	name = "Arsino"
 	female = yes
 	dynasty = dynasty_6
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = zamareni
 	martial = 12
 	diplomacy = 19
@@ -114,7 +114,7 @@
 	name = "Toss"
 	male = yes
 	dynasty = dynasty_5
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = german
 	martial = 13
 	diplomacy = 7
@@ -171,7 +171,7 @@
 	name = "Lobard"
 	female = yes
 	dynasty = dynasty_13
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = meycensau
 	martial = 13
 	diplomacy = 16
@@ -214,7 +214,7 @@
 	name = "Laž"
 	male = yes
 	dynasty = dynasty_13
-	religion = court_of_aldreda
+	religion = "courtism"
 	culture = meycensau
 	martial = 14
 	diplomacy = 16
