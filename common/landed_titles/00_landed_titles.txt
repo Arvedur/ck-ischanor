@@ -608,9 +608,10 @@
                     province = 14
                 }
             }
-
+        }
+        d_vogast = {
             c_vogast = {
-                color = { 173 255 40 }
+                color = { 60 179 113 }
                 color2 = { 255 255 255 }
 
                 b_sjataverko = {
