@@ -2857,7 +2857,7 @@
 	name = "Szavlańek"
 	male = yes
 	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_silver
+	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
 	martial = 17
@@ -2889,7 +2889,7 @@
 	name = "Ladislav"
 	male = yes
 	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_silver
+	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
 	martial = 16
@@ -2921,7 +2921,7 @@
 	name = "Ladislav"
 	male = yes
 	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_silver
+	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
 	martial = 18
@@ -2950,7 +2950,7 @@
 	name = "Szanjik"
 	male = yes
 	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_silver
+	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
 	martial = 18
@@ -2979,7 +2979,7 @@
 	name = "Anateja"
 	male = yes
 	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_silver
+	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
 	martial = 15
