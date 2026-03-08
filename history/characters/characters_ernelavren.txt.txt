@@ -2977,7 +2977,7 @@
 }
 177 = {
 	name = "Anateja"
-	male = yes
+	female = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
