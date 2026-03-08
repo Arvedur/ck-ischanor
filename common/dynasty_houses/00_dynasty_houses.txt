@@ -19,10 +19,10 @@ house_ernelavren_builder = {
     name = house_ernelavren_builder
     motto = house_ernelavren_builder_motto
 }
-house_ernelavren_silver = {
+house_ernelavren_vyszavlan = {
     dynasty = dynasty_12
-    name = house_ernelavren_silver
-    motto = house_ernelavren_silver_motto
+    name = house_ernelavren_vyszavlan
+    motto = house_ernelavren_vyszavlan_motto
     founder = 173
 }
 house_melys = {
