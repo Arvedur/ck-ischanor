@@ -499,16 +499,16 @@
                 }
             }
         }
-        d_veloktol = {
+        d_velkotol = {
         color = { 152 163 221 }
         color2 = { 255 255 255 }
         capital = c_veloktol
 
-           c_veloktol = {
+           c_velkotol = {
             color = { 152 163 221 }
             color2 = { 255 255 255 }
 
-                b_veloktol = { 
+                b_velkotol = { 
                     province = 107 
                 }
                 b_gesavelk = { 
