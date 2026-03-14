@@ -1,0 +1,112 @@
+﻿l_english:
+
+ courtism_religion:0 "Courtist Church"
+ courtism_religion_adj:0 "Courtist"
+ courtism_religion_adherent:0 "Courtist"
+ courtism_religion_adherent_plural:0 "Courtists"
+ courtism_religion_desc:0 "In the beginning, the only thing that existed was Aldreda. Aldreda was the sole something in nothing. However, Aldreda desired to create, and so he took parts of himself to create. He made the stars, moons, planets, comets, suns, and many other parts of the night, and he felt fulfilled. And so he took a divine slumber. When he woke up, he saw something out of place. A small, rocky planet that he created first floated through the void of night. Aldreda, however, felt pity for the small planet and decided he wanted to save it and to give the planet a part of himself. And so he went about giving the planet life. Before he divined man, he first shaped the rocks to form mountains and valleys and oceans and lakes and rivers. Then, he created two twins to look over the small planet, Helia, the sun, and Horios, the moon. Then Aldreda took a part of himself to create the plants, the animals, and finally, man."
+ courtism_house_of_worship:0 "Church"
+ courtism_house_of_worship_2:0 "$courtism_of_diena_house_of_worship$" # Optional translation alt
+ courtism_house_of_worship_3:0 "$courtism_house_of_worship$" # Optional translation alt
+ courtism_house_of_worship_plural:0 "Churches"
+ courtism_religious_symbol:0 "Aldredan Eye"
+ courtism_religious_symbol_2:0 "$courtism_religious_symbol$" # Optional translation alt
+ courtism_religious_symbol_3:0 "$courtism_religious_symbol$" # Optional translation alt
+ courtism_religious_text:0 "Poetics"
+ courtism_religious_text_2:0 "$courtism_religious_text$" # Optional translation alt
+ courtism_religious_text_3:0 "$courtism_religious_text$" # Optional translation alt
+ courtism_religious_head_title_name:0 "Arcierio"
+ courtism_religious_head_title:0 "Arcierio"
+ courtism_devotee_male:0 "hemdora"
+ courtism_devotee_male_plural:0 "hemdoras"
+ courtism_devotee_female:0 "hemdora"
+ courtism_devotee_female_plural:0 "hemdoras"
+ courtism_devotee_neuter:0 "hemdora"
+ courtism_devotee_neuter_plural:0 "hemdoras"
+ courtism_alternate_devotee_neuter_plural:0 "Hemdoras"
+ courtism_priest_male:0 "hieri"
+ courtism_priest_male_plural:0 "hierii"
+ courtism_priest_female:0 "hieri"
+ courtism_priest_female_plural:0 "hierii"
+ courtism_priest_neuter:0 "hieri"
+ courtism_priest_neuter_plural:0 "hierii"
+ courtism_alternate_priest_term_plural:0 "viaheri"
+ courtism_bishop:0 "vilaōre"
+ courtism_bishop_plural:0 "vilaōri"
+ courtism_positive_afterlife:0 "Heaven"
+ courtism_positive_afterlife_2:1 "Paradise" # Optional translation alt
+ courtism_positive_afterlife_3:1 "$courtism_high_god_name_possessive$ Kingdom" # Optional translation alt
+ courtism_negative_afterlife:0 "hell"
+ courtism_negative_afterlife_2:1 "the Pit" # Optional translation alt
+ courtism_witchgodname:0 "$courtism_night_god_name$"
+ courtism_witchgodname_possessive:0 "$courtism_night_god_name_possessive$"
+
+ #Death god Daudin
+ courtism_death_deity_name:0 "Daudin"
+ courtism_death_deity_name_possessive:0 "Daudin's"
+
+ #High god/Creator god Aldreda
+ courtism_high_god_name:0 "Aldreda"
+ courtism_high_god_name_2:0 "$courtism_high_god_name$" # Optional translation alt
+ courtism_high_god_name_3:0 "$courtism_high_god_name$" # Optional translation alt
+ courtism_high_god_name_possessive:0 "Aldreda's"
+ courtism_high_god_name_alternate:0 "Aldreda"
+ courtism_high_god_name_alternate_possessive:0 "Aldreda's"
+ courtism_creator_god_name:0 "$courtism_high_god_name$"
+ courtism_creator_god_name_possessive:0 "$courtism_high_god_name_possessive$"
+
+ #Health god Manos
+ courtism_health_god_name:0 "Manos"
+ courtism_health_god_name_possessive:0 "Manos'"
+ courtism_war_god_name:0 "$courtism_health_god_name$"
+ courtism_war_god_name_possessive:0 "$courtism_health_god_name_possessive$"
+
+ #Fertility god Suzantha
+ courtism_fertility_god_name:0 "Suzantha"
+ courtism_fertility_god_name_possessive:0 "Suzantha's"
+
+ #Wealth god Loros
+ courtism_wealth_god_name:0 "Loros"
+ courtism_wealth_god_name_possessive:0 "Loros'"
+
+ #Ligt goddess/Sun goddess/Fate goddess Helia
+ courtism_light_god_name:0 "Helia"
+ courtism_light_god_name_possessive:0 "Helia's"
+ court_of_diena_fate_god_name:0 "$courtism_light_god_name$"
+ courtism_fate_god_name_possessive:0 "$courtism_light_god_name_possessive$"
+
+ #Knowledge god Hephus
+ courtism_knowledge_god_name:0 "Hephus"
+ courtism_knowledge_god_name_possessive:0 "Hephus'"
+ 
+ #Trickster god Ruhric
+ courtism_trickster_god_name:0 "Ruhric"
+ courtism_trickster_god_name_possessive:0 "Ruhric's"
+
+ #Night god Horaios
+ courtism_night_god_name:0 "Horaios"
+ courtism_night_god_name_possessive:0 "Horaios'"
+
+ #Water god Diena
+ courtism_water_god_name:0 "Diena"
+ courtism_water_god_name_possessive:0 "$children_of_diena_night_god_name_possessive$"
+
+ #Chaos god THuggius
+ courtism_chaos_god_name_possessive:0 "Thuggius"
+ courtism_chaos_god_name:0 "Thuggius'"
+ courtism_justice_god_name_possessive:0 "Macelanor's"
+ courtism_justice_god_name:0 "Macelanor"
+ courtism_luck_god_name:0 "Valles"
+ courtism_luck_god_name_possessive:0 "Valles"
+
+ #Faiths
+ courtism:0 "Courtism"
+ courtism_adj:0 "Courtist"
+ courtism_adherent:0 "Courtists"
+ courtism_adherent_plural:0 "Courtists"
+ courtism_desc:0 "The Courtist Church is the amalgamation of a number of local cults & folk beliefs that worshipped a number of gods. The Church believes in a pantheon of gods headed Aldreda. After a number of consolidations, the Courtist Church now believes that the Arcierio is the supreme head of the Church & representative of the gods."
+ měcynec_courtism:0 "Měcynec Courtist Church"
+ měcynec_courtism_adj:0 "Courtist"
+ měcynec_courtism_adherent:0 "Courtists"
+ měcynec_courtism_adherent_plural:0 "Courtists"
+ měcynec_courtism_desc:0 "Courtist worship Aldreda the creator and his court, whom he forgave after his physical form was destroyed during the Blinding. The Měcynec branch belives many of the same things as the origional courtist branch however varies slightly over specific belifes choosing to to belive in the Ascendants."

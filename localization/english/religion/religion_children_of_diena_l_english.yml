@@ -48,8 +48,8 @@
 
  children_of_diena_creator_god_name:0 "$children_of_diena_high_god_name$"
  children_of_diena_creator_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
- children_of_diena_health_god_name:0 "st. Mekias"
- children_of_diena_health_god_name_possessive:0 "st. Mekias'"
+ children_of_diena_health_god_name:0 "Saint Mekias"
+ children_of_diena_health_god_name_possessive:0 "Saint Mekias'"
  children_of_diena_fertility_god_name:0 "$children_of_diena_high_god_name$"
  children_of_diena_fertility_god_name_possessive:0 "$children_of_diena_high_god_name_possessive$"
  children_of_diena_wealth_god_name:0 "$children_of_diena_high_god_name$"
