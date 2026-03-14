@@ -6,7 +6,6 @@
  courtism_religion_adherent:0 "Courtist"
  courtism_religion_adherent_plural:0 "Courtists"
  courtism_religion_desc:0 "In the beginning, the only thing that existed was Aldreda. Aldreda was the sole something in nothing. However, Aldreda desired to create, and so he took parts of himself to create. He made the stars, moons, planets, comets, suns, and many other parts of the night, and he felt fulfilled. And so he took a divine slumber. When he woke up, he saw something out of place. A small, rocky planet that he created first floated through the void of night. Aldreda, however, felt pity for the small planet and decided he wanted to save it and to give the planet a part of himself. And so he went about giving the planet life. Before he divined man, he first shaped the rocks to form mountains and valleys and oceans and lakes and rivers. Then, he created two twins to look over the small planet, Helia, the sun, and Horios, the moon. Then Aldreda took a part of himself to create the plants, the animals, and finally, man."
- courtism_religion_desc:0 ""
  courtism_high_god_name:0 "Aldreda"
  courtism_high_god_name_2:0 "$courtism_high_god_name$" # Optional translation alt
  courtism_high_god_name_3:0 "$courtism_high_god_name$" # Optional translation alt
@@ -81,15 +80,11 @@
  courtism_luck_god_name_possessive:0 "Valles"
 
  #children_of_diena-Group Faiths
- courtism:0 "Court of Aldreda"
+ courtism:0 "Courtist Church"
  courtism_adj:0 "Courtist"
  courtism_adherent:0 "Courtists"
  courtism_adherent_plural:0 "Courtists"
- courtism_desc:0 "Courtist worship Aldreda the creator and his court, whom he forgave after his physical form was destroyed during the Blinding. The court is made up of Aldreda
- The Creator Helia Regent of Aldreda, Goddess of the Sun, Light, the Past and the Present
- Horaios Regent of Aldreda, God of the Moon, Stars, Waters, and the Obscurity of the Future
- Hephus God of Knowledge Suzantha Goddess of Nature, Fertility, Agriculture, and the Natural; Ruhric God of the Arts and Trickery; Loros God of Commerce and tradewinds Manos God of War, Strength, and Honor Daudin God of Decay, Aging, and Lost Souls Thuggius God of Heroes, Brutality, and Chaos Macelanor God of Justice, Order, and Peace Valles the God of Chance, Luck, Comedy, and the Gamble. They also worship Ascendants. Ascendants are deities that are not in the court of Aldreda, and generally came after the blinding. Often, they are the creation or offspring of a member of the court, such as Lady Celras protector of celras, Flux Arasi protector of ischanor and emperors, Suzhelda nature spirits and Varosos god of alcohol"
-
+ courtism_desc:0 "The Courtist Church is the amalgamation of a number of local cults & folk beliefs that worshipped a number of gods. The Church believes in a pantheon of gods headed Aldreda. After a number of consolidations, the Courtist Church now believes that the Arcierio is the supreme head of the Church & representative of the gods."
  měcynec_courtism:0 "Měcynec Courtism"
  měcynec_courtism_adj:0 "Courtist"
  měcynec_courtism_adherent:0 "Courtists"
