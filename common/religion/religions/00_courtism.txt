@@ -1,7 +1,6 @@
 ﻿
 courtism_religion = {
 	family = rf_ischanic
-	icon = courtist_icon
 
 	doctrine_background_icon = core_tenet_banner_christian.dds
 	doctrine = abrahamic_hostility_doctrine
@@ -251,30 +250,28 @@ courtism_religion = {
 
 		GHWName = ghw_purification
 		GHWNamePlural = ghw_purifications
-
-		piety_icon_group = Abrahamic
 	}
+
+	piety_icon_group = "ischanic"
 
 	faiths = {
 		courtism = {
 			color = { 0.68 0.05 0.0 }
-			icon = courtism_icon
+			icon = courtist_icon_1
 
 			doctrine = tenet_communion
 			doctrine = tenet_monasticism
 			doctrine = tenet_armed_pilgimages
 
-			piety_icon_group = Abrahamic
 		}
 		měcynec_courtism = {
 			color = { 0.8 0.47 0.13 }
-			icon = courtism_icon
+			icon = courtist_icon_1
 
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_monasticism
 			doctrine = tenet_armed_pilgimages
 
-			piety_icon_group = Abrahamic
 		}
 	}
 }

@@ -119,6 +119,7 @@
 		piety_cost = {
 			if = {
 				limit = { religion_tag = christianity_religion }
+				limit - { religion_tag = courtism_religion }
 				value = faith_tenet_cost_low
 			}
 			else = {
