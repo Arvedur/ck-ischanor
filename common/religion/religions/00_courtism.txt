@@ -25,7 +25,7 @@ courtism_religion = {
 	doctrine = doctrine_adultery_women_crime
 	doctrine = doctrine_kinslaying_dynastic_crime
 	doctrine = doctrine_deviancy_crime
-	doctrine = doctrine_witchcraft_crime
+	doctrine = doctrine_witchcraft_accepted
 
 	#clerical Functions
 	doctrine = doctrine_clerical_marriage_allowed
