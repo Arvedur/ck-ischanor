@@ -9,7 +9,7 @@
         color2 = { 255 255 255 }
         capital = c_varennapared
 
-        k_grand_duchy_vedanica = {
+        k_vedanica = {
             color = { 220 60 60 }
             color2 = { 255 255 255 }
             definite_form = yes

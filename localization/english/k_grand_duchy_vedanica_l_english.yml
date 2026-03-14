@@ -3,9 +3,9 @@
  grand_duke:0 "Grand Duke"
  grand_duchess:0 "Grand Duchess"
 
- k_grand_duchy_vedanica:0 "Grand Duchy of Vědanica"
- k_grand_duchy_vedanica_prefix:0 ""
- k_grand_duchy_vedanica_article:0 ""
+ k_vedanica:0 "Grand Duchy of Vědanica"
+ k_vedanica_prefix:0 ""
+ k_vedanica_article:0 ""
 
  d_velkotol:0 "Vełkotol" 
  c_velkotol:0 "Vełkotol"

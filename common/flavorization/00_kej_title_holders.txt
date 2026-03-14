@@ -34,7 +34,7 @@
 grand_duchy_kingdom_flavorization = {
     type = title
     tier = kingdom
-    titles = { k_grand_duchy_vedanica}
+    titles = { k_vedanica}
     priority = 47
     governments = { feudal_government }
     flavourization_rules = { 
@@ -61,3 +61,4 @@ grand_duchess = {
         top_liege = no
     }
 }
+
