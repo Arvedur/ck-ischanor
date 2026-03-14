@@ -152,3 +152,33 @@ emperor_vedanican_feudal = {
         vedanican_government
     }
 }
+hegemon_vedanican_feudal_male = {
+    type = character
+    gender = male
+    special = holder
+    tier = hegemony
+    priority = 45
+    government = {
+        vedanican_government
+    }
+}
+
+hegemon_vedanican_feudal_female = {
+    type = character
+    gender = female
+    special = holder
+    tier = hegemony
+    priority = 45
+    government = {
+       vedanican_government
+    }
+}
+
+hegemon_vedanican_feudal = {
+    type = character
+    tier = hegemony
+    priority = 45
+    government = {
+        vedanican_government
+    }
+}

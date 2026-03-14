@@ -6,10 +6,10 @@
 
     1066.1.1 = {
         holder = 2
-        liege = e_Ischanor
+        liege = e_vedanica
     }
 
-    government = zamaranji_government
+    government = feudal
 
 }
 d_mrinje = {
@@ -196,4 +196,23 @@ c_drivijn = {
         liege = d_kudrezin
     }
 }
+d_chasrene_islands = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
 
+   1066.1.1 = {
+        holder = 200
+        liege = k_arch_duchy_zamaranje
+    }
+}
+c_vela_greda = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 22 }
+
+   1066.1.1 = {
+        holder = 200
+        liege = d_chasrene_islands
+    }
+}

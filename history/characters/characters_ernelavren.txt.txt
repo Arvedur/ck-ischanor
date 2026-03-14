@@ -1,5 +1,5 @@
-43 = {
-	name = "Aestun"
+﻿43 = {
+	name = "Aestun" # Aestun I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -19,7 +19,7 @@
 	}
 }
 44 = {
-	name = "Petr"
+	name = "Petr" # Petr I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -40,7 +40,7 @@
 	}
 }
 45 = {
-	name = "Honza"
+	name = "Honza" #Honza I death causes sucsession crisis
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -62,7 +62,7 @@
 	}
 }
 46 = {
-	name = "Jana"
+	name = "Jana" #Oldest daughter of Honza I
 	female = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -84,7 +84,7 @@
 	}
 }
 47 = {
-	name = "Hinyek"
+	name = "Hinyek" #Eldeset son of Honza I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -107,7 +107,7 @@
 	}
 }
 48 = {
-	name = "Honza"
+	name = "Honza" #Honza II 'wins' sucession crisis defends Szevrotol from an invasion
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -130,7 +130,7 @@
 	}
 }
 49 = {
-	name = "Honza"
+	name = "Honza" #Honza III 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -153,7 +153,7 @@
 	}
 }
 50 = {
-	name = "Honza"
+	name = "Honza" #Honza the younger great tatctition dies young before inhereting
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -176,7 +176,7 @@
 	}
 }
 51 = {
-	name = "Aestun"
+	name = "Aestun" #Aestun II 'the builder'
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -197,7 +197,7 @@
 	}
 }
 52 = {
-	name = "Petr"
+	name = "Petr" #Petr II
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -241,7 +241,7 @@
 	}
 }
 54 = {
-	name = "Joran"
+	name = "Joran" #Joran 'the crimson' defeated a rebellion
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -262,7 +262,7 @@
 	}
 }
 55 = {
-	name = "Petr"
+	name = "Petr" #Petr III 'the mad'
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -285,7 +285,7 @@
 	}
 }
 56 = {
-	name = "Diena"
+	name = "Diena" #Diena I petr's sister
 	female = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -306,7 +306,7 @@
 	}
 }
 57 = {
-	name = "Ladislav"
+	name = "Ladislav" # Ladislav I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -329,7 +329,7 @@
 	}
 }
 58 = {
-	name = "Radogoš"
+	name = "Radogoš" #Radagos I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -352,7 +352,7 @@
 	}
 }
 59 = {
-	name = "Jan"
+	name = "Jan" #Jan I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -399,7 +399,7 @@
 	}
 }
 61 = {
-	name = "Ladislav"
+	name = "Ladislav" #Ladislav II 'the bold' fathers two twins causing a sucession crisis 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -422,7 +422,7 @@
 	}
 }
 62 = {
-	name = "Ladislav"
+	name = "Ladislav" #Ladislav III elder twin 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -445,7 +445,7 @@
 	}
 }
 63 = {
-	name = "Zevran"
+	name = "Zevran" #Zevran I younger twin crueler and more militaristic than his brother 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -468,7 +468,7 @@
 	}
 }
 64 = {
-	name = "Džejms"
+	name = "Džejms" #Dzejms I
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -514,7 +514,7 @@
 	}
 }
 66 = {
-	name = "Zevran"
+	name = "Zevran" #Zevran II
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -538,7 +538,7 @@
 	}
 }
 67 = {
-	name = "Merek"
+	name = "Merek" #Merek 'the fat'
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -561,7 +561,7 @@
 	}
 }
 68 = {
-	name = "Petr"
+	name = "Petr" #Petr IV
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -628,7 +628,7 @@
 	}
 }
 71 = {
-	name = "Honza"
+	name = "Honza" #Honza IV
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -651,7 +651,7 @@
 	}
 }
 72 = {
-	name = "Zevran"
+	name = "Zevran" #Zevran III 'steel swan' defeats a vassle rebellion 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -674,7 +674,7 @@
 	}
 }
 73 = {
-	name = "Aestun"
+	name = "Aestun" #Aestun III 'the old lord'
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren
@@ -2854,7 +2854,31 @@
 }
 #Ladislav's Bastards
 173 = {
-	name = "Szavlańek"
+	name = "szavlańek" #leader of a major rebellion in szevrotol agains Zavran I
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_vyszavlan
+	religion = children_of_diena
+	culture = osjzari
+	martial = 16
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 18
+	learning = 10
+    prowess = 17
+	trait = legitimized_bastard
+    father = 62
+	849.6.12 = {
+		birth = yes
+	}
+	869.12.3 = {
+		death = {
+            death_reason = death_battle
+        }
+	}
+}
+174 = {
+	name = "Ladislav" #younger rebellious bastard who joins his elder half brothers war 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_vyszavlan
@@ -2863,142 +2887,111 @@
 	martial = 17
 	diplomacy = 16
 	intrigue = 8
-	stewardship = 15
-	learning = 12
-    prowess = 20
+	stewardship = 16
+	learning = 10
+    prowess = 17
+	trait = legitimized_bastard
     father = 62
-	trait = bastard
-	trait = organizer
-	trait = brave
-	trait = gallant
-	trait = lifestyle_blademaster
-	851.10.10 = {
+	850.11.12 = {
 		birth = yes
 	}
-	873.5.15 = {
+	869.12.3 = {
 		death = {
             death_reason = death_battle
         }
 	}
-    857.7.29 = {
-        claim = { title = d_szevrotol
-        pressed = yes }
-    }
 }
-174 = {
-	name = "Ladislav"
-	male = yes
-	dynasty = dynasty_12
-	dynasty_house = house_ernelavren_vyszavlan
-	religion = children_of_diena
-	culture = osjzari
-	martial = 16
-	diplomacy = 18
-	intrigue = 8
-	stewardship = 13
-	learning = 12
-    prowess = 22
-    father = 62
-	trait = bastard
-	trait = brave
-	trait = gallant
-	trait = lifestyle_blademaster
-	853.10.10 = {
-		birth = yes
-	}
-	873.5.15 = {
-		death = {
-            death_reason = death_battle
-        }
-	}
-    857.7.29 = {
-        claim = { title = d_szevrotol
-        pressed = yes }
-    }
-}
-#Ladislav's bastards main line
+#Ladislav's Bastards decendants
 175 = {
-	name = "Ladislav"
+	name = "Honza" 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
-	martial = 18
-	diplomacy = 16
+	martial = 17
+	diplomacy = 15
 	intrigue = 8
-	stewardship = 15
-	learning = 12
-    prowess = 19
+	stewardship = 17
+	learning = 10
+    prowess = 17
     father = 173
-	trait = brave
-	trait = gallant
-	871.2.13 = {
+	865.2.13 = {
 		birth = yes
 	}
-	910.12.3 = {
+	892.12.3 = {
 		death = {
-            death_reason = death_execution
+            death_reason = death_battle
         }
 	}
-    873.5.15 = {
-        claim = { title = d_szevrotol
-        pressed = yes }
-    }
 }
 176 = {
-	name = "Szanjik"
+	name = "Merek" 
 	male = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
-	martial = 18
-	diplomacy = 16
+	martial = 17
+	diplomacy = 14
 	intrigue = 8
-	stewardship = 15
-	learning = 12
-    prowess = 19
+	stewardship = 18
+	learning = 10
+    prowess = 16
     father = 173
-	trait = brave
-	trait = gallant
-	872.4.15 = {
+	866.12.13 = {
 		birth = yes
 	}
-	910.12.3 = {
+	912.2.3 = {
 		death = {
             death_reason = death_ill
         }
 	}
-    873.5.15 = {
-        claim = { title = d_szevrotol
-        pressed = no }
-    }
 }
 177 = {
-	name = "Anateja"
+	name = "Diena" 
 	female = yes
 	dynasty = dynasty_12
 	dynasty_house = house_ernelavren_vyszavlan
 	religion = children_of_diena
 	culture = osjzari
-	martial = 15
-	diplomacy = 16
+	martial = 12
+	diplomacy = 15
 	intrigue = 8
-	stewardship = 17
-	learning = 12
-    prowess = 19
+	stewardship = 13
+	learning = 10
+    prowess = 14
     father = 173
-	873.2.22 = {
+	868.5.1 = {
 		birth = yes
 	}
-	917.1.24 = {
+	904.4.14 = {
 		death = {
-            death_reason = death_murder
+            death_reason = death_assassination
         }
 	}
-    873.5.15 = {
-        claim = { title = d_szevrotol
-        pressed = no }
+}
+178 = {
+	name = "Jan" 
+	male = yes
+	dynasty = dynasty_12
+	dynasty_house = house_ernelavren_vyszavlan
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 14
+	intrigue = 8
+	stewardship = 18
+	learning = 10
+    prowess = 16
+    father = 174
+	trait = bastard
+	866.10.12 = {
+		birth = yes
+	}
+	867.1.4 = {
+		death = {
+            death_reason = death_sickly
+        }
 	}
 }

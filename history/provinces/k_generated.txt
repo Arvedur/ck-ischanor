@@ -573,3 +573,26 @@
 155 = {
 	holding = castle
 }
+156 = {
+	holding = city
+}
+157 = {
+	culture = osjzari
+	religion = children_of_diena
+	holding = castle
+}
+158 = {
+	holding = none
+}
+159 = {
+	holding = none
+}
+160 = {
+	holding = city
+}
+161 = {
+	holding = castle
+}
+162 = {
+	holding = church
+}

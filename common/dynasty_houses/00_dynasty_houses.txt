@@ -2,6 +2,7 @@
     dynasty = dynasty_12
     name = house_ernelavren
     motto = house_ernelavren_motto
+    
 }
 
 house_ernelavren_boravjek = {

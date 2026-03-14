@@ -320,3 +320,25 @@
 		}	
 	}
 }
+200 = {
+	name = "Kolana"
+	female = yes
+	dynasty = dynasty_2
+	religion = courtism
+	culture = osjzari
+	martial = 16
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 15
+	prowess = 16
+	father = 142
+	1021.6.23 = {
+		birth = yes
+	}
+	1088.5.12 = {
+		death = {
+			death_reason = death_ill
+		}	
+	}
+}

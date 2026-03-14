@@ -1,4 +1,8 @@
 ﻿l_english:
+ grand_duchy_kingdom_flavorization:0 "Grand Duchy"
+ grand_duke:0 "Grand Duke"
+ grand_duchess:0 "Grand Duchess"
+
  k_grand_duchy_vedanica:0 "Grand Duchy of Vědanica"
  k_grand_duchy_vedanica_prefix:0 ""
  k_grand_duchy_vedanica_article:0 ""
@@ -65,6 +69,7 @@
  b_covasau:0  "Čovašau"
  c_trosanjek:0 "Trošanjek"
  b_trosanjek:0 "Trošanjek"
+ b_tosnji:0 "Tosnji"
  b_boravnac:0 "Boravnac"
  b_trosnji:0 "Trošnji"
  c_stravinec:0 "Stravineč"
@@ -91,7 +96,7 @@
  b_boranici:0 "Boraniči"
  b_nivanji:0 "Nivanji"
  c_kalinva:0 "Kalivna"
- b_kalinva:0 "Kalivna"
+ b_kalvinva:0 "Kalivna"
  b_grecina:0 "Grečina"
  b_pojskadrazina:0 "Pojškadražina"
 

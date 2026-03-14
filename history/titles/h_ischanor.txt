@@ -1,4 +1,4 @@
-e_ischanor = {
+h_ischanor = {
 	867.1.1 = { change_development_level = 4 }
 	1066.1.1 = { change_development_level = 9 }
 	1101.1.1 = { change_development_level = 15 }
@@ -6,9 +6,23 @@ e_ischanor = {
     1280.1.1 = { change_development_level = 24 }
     
     1066.1.1 = {
-        holder = 7
+        holder = none
     }
+	government = feudal
 }
+e_vedanica = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 8 }
+	1101.1.1 = { change_development_level = 14 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = none
+        liege = h_Ischanor
+    }
+	government = feudal
+}
+
 k_grand_duchy_vedanica = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 8 }
@@ -17,8 +31,10 @@ k_grand_duchy_vedanica = {
 
     1066.1.1 = {
         holder = 2
-        liege = e_Ischanor
+        liege = e_vedanica
     }
+
+
 }
 k_arch_duchy_zamaranje = {
 	867.1.1 = { change_development_level = 7 }
@@ -28,6 +44,8 @@ k_arch_duchy_zamaranje = {
 
     1066.1.1 = {
         holder = 2
-        liege = e_Ischanor
+        liege = e_vedanica
     }
+
+
 }

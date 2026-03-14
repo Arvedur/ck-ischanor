@@ -57,6 +57,7 @@ dynasty_12 = {
     name = "dynn_ernelavren"
     culture = osjzari
     motto = dynn_ernelavren_motto
+    founder = 43
 }
 
 dynasty_13 = {
