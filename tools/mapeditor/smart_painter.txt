@@ -81,6 +81,34 @@
 						debugging=no
 					}
 
+					Range={
+						name="New Pattern"
+						pattern=4
+						curve=0
+						angle_l=45.000000
+						angle_r=45.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
 				}
 			}
 
@@ -159,7 +187,7 @@
 		}
 	}
 
-	CurrentPreset=3
+	CurrentPreset=2
 	Autosave=yes
 }
 
