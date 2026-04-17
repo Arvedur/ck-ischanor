@@ -150,7 +150,7 @@
 43 = {
 	holding = none
 }
-#k_grand_duchy_vedanica
+#k_vedanica
 44 = {
 	holding = none
 }

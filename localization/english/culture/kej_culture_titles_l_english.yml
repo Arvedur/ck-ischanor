@@ -1,0 +1,74 @@
+l_english:
+ 
+ #Default Titles
+
+ #Kingdom Tier
+ grand_duchy_kingdom_flavorization:0 "Grand Duchy"
+ grand_duke:0 "Grand Duke"
+ grand_duchess:0 "Grand Duchess"
+ 
+
+ ##Heritage/Culture Specific##
+ 
+ #Oszjari Heritage
+ baron_feudal_male_osjzari_group:0 "szlaçtoç"
+ baron_feudal_female_osjzari_group:0 "szlaçtiç"
+ barony_feudal_osjzari_group:0 "Barony"
+ count_feudal_male_osjzari_group:0 "Raču"
+ count_feudal_female_osjzari_group:0 "Kraf"
+ county_feudal_osjzari_group:0 "County"
+ duke_feudal_male_osjzari_group:0 "Ędzoç"
+ duke_feudal_female_osjzari_group:0 "Ędziç"
+ duchy_feudal_osjzari_group:0 "Duchy"
+ king_feudal_male_osjzari_group:0 "Geredzoc"
+ king_feudal_female_osjzari_group:0 "Geredzic" 
+ kingdom_feudal_osjzari_group:0 "Kingdom"
+ emperor_feudal_male_osjzari_group:0 "Emperor" 
+ emperor_feudal_female_osjzari_group:0 "Empress"
+ empire_feudal_osjzari_group:0 "Empire"
+
+ 
+ #baron_vedanican_feudal_male:0 "szlaçtoç"
+ #baron_vedanican_feudal_female:0 "szlaçtiç"
+ #baron_vedanican_feudal:0 "Barony"
+ #count_vedanican_feudal_male:0 "Raču"
+ #count_vedanican_feudal_female:0 "Kraf"
+ #count_vedanican_feudal:0 "County"
+ #duke_vedanican_feudal_male:0 "Ędzoç"
+ #duke_vedanican_feudal_female:0 "Ędziç"
+ #duke_vedanican_feudal:0 "Duchy"
+ #king_vedanican_feudal_male:0 "Geredzoc"
+ #king_vedanican_feudal_female:0 "Geredzic"
+ #king_vedanican_feudal:0 "Grand Duchy"
+ #emperor_vedanican_feudal_male:0 "Emperor"
+ #emperor_vedanican_feudal_female:0 "Empress"
+ #emperor_vedanican_feudal:0 "Empire"
+
+ 
+ baron_zamaranji_feudal_male:0 "szlaçtoç"
+ baron_zamaranji_feudal_female:0 "szlaçtiç"
+ baron_zamaranji_feudal:0 "Barony"
+ count_zamaranji_feudal_male:0 "Raču"
+ count_zamaranji_feudal_female:0 "Kraf"
+ count_zamaranji_feudal:0 "County"
+ duke_zamaranji_feudal_male:0 "Ędzoç"
+ duke_zamaranji_feudal_female:0 "Ędziç"
+ duke_zamaranji_feudal:0 "Duchy"
+ king_zamaranji_feudal_male:0 "Ędzaoç"
+ king_zamaranji_feudal_female:0 "Ędzaiç"  
+ king_zamaranji_feudal:0 "Archduchy"
+ emperor_zamaranji_feudal_male:0 "Emperor"
+ emperor_zamaranji_feudal_female:0 "Empress"
+ emperor_zamaranji_feudal:0 "Empire"
+
+
+ # Some redundent examples for laters <3 + self-explanation for future me -Arvedur
+ # Make sure these are tied to a key in 00_kej_title_holders.txt
+ # king_administrative_male_roman: <-- culture specific for roman culture
+ # kingdom_administrative_byzantine_group <-- heritage specific for byzantine heritage
+ #
+ #
+ # Also the ones above are tied to governments and need to be replaced by culture specific ones
+
+ #Feudal
+ 

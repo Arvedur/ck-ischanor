@@ -1,4 +1,4 @@
-k_grand_duchy_vedanica = {
+k_vedanica = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 8 }
 	1101.1.1 = { change_development_level = 14 }
@@ -22,7 +22,7 @@ d_varennapered = {
 
     1066.1.1 = {
         holder = 2
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
     }
 }
 c_varennapered = {
@@ -113,11 +113,11 @@ d_march_of_meycensau = {
 
     1066.1.1 = {
         holder = 8
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
     }
     966.3.13 = {
         holder = 27
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
     }
 }
 c_meycensau = {
@@ -131,7 +131,7 @@ c_meycensau = {
     }
     966.3.13 = {
         holder = 27
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
     }
 }
 c_vlejrasau = {
@@ -155,7 +155,7 @@ c_trosanjek = {
     }
         966.3.13 = {
         holder = 27
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
     }
 }
 c_stravinec = {
@@ -264,7 +264,7 @@ d_szevrotol = {
     1047.3.21 = { holder = 72 }
     1066.1.1 = {
         holder = 72
-        liege = k_grand_duchy_vedanica
+        liege = k_vedanica
         change_development_level = 13
     }
 	1178.1.1 = { change_development_level = 24 }

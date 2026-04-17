@@ -23,7 +23,7 @@ e_vedanica = {
 	government = feudal
 }
 
-k_grand_duchy_vedanica = {
+k_vedanica = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 8 }
 	1101.1.1 = { change_development_level = 14 }

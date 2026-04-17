@@ -30,22 +30,22 @@
 ######## TITLE-BASED ########
 
 
-#Grand Duchy of Vedanica
-grand_duchy_kingdom_flavorization = {
+#Default Titles
+grand_duchy_kingdom_flavorization = { #For now only for Vedanica & add here what else has this added
     type = title
     tier = kingdom
-    titles = { k_grand_duchy_vedanica}
-    priority = 47
+    titles = { k_vedanica}
+    priority = 55
     governments = { feudal_government }
     flavourization_rules = { 
         top_liege = no
     } 
 }
-grand_duke = {
+grand_duke = { #See note at first instance in the one right above this
     type = character
     gender = male
     special = holder
-    priority = 47
+    priority = 55
     titles = { k_vedanica }
     flavourization_rules = { 
         top_liege = no
@@ -55,9 +55,167 @@ grand_duchess = {
     type = character
     gender = female
     special = holder
-    priority = 47
+    priority = 55
     titles = { k_vedanica }
     flavourization_rules = { 
         top_liege = no
     }
 }
+
+#Osjzari Feudal
+baron_feudal_male_osjzari_group = {
+    type = character
+    gender = male
+    special = holder
+    tier = barony
+    priority = 13
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+baron_feudal_female_osjzari_group = {
+    type = character
+    gender = female
+    special = holder
+    tier = barony
+    priority = 13
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+barony_feudal_osjzari_group = {
+	type = title
+	tier = barony
+	priority = 13
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+}
+
+count_feudal_male_osjzari_group = {
+    type = character
+    gender = male
+    special = holder
+    tier = county
+    priority = 20
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+count_feudal_female_osjzari_group = {
+    type = character
+    gender = female
+    special = holder
+    tier = county
+    priority = 20
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+county_feudal_osjzari_group = {
+    type = title
+    tier = county
+    priority = 20
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+duke_feudal_male_osjzari_group = {
+    type = character
+    gender = male
+    special = holder
+    tier = duchy
+    priority = 30
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+duke_feudal_female_osjzari_group = {
+    type = character
+    gender = female
+    special = holder
+    tier = duchy
+    priority = 30
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+duchy_feudal_osjzari_group = {
+    type = title
+    tier = duchy
+    priority = 30
+    governments = { feudal_government }
+    heritages = { heritage_osjzari }
+}
+
+king_feudal_male_osjzari_group = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 50
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+}
+
+king_feudal_female_osjzari_group = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 50
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+}
+
+kingdom_feudal_osjzari_group = {
+	type = title
+	tier = kingdom
+	priority = 50
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+}
+
+emperor_feudal_male_osjzari_group = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 105
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+
+	flavourization_rules = { 
+		only_independent = yes
+	}
+}
+
+emperor_feudal_female_osjzari_group = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 105
+	governments = { feudal_government }
+	heritages = { heritage_osjzari }
+	flavourization_rules = { 
+		only_independent = yes
+	}
+}
+
+empire_feudal_osjzari_group = {
+	type = title
+	tier = empire
+	priority = 105
+	governments = { feudal_government tribal_government administrative_government }
+	heritages = { heritage_osjzari }
+	flavourization_rules = { 
+		top_liege = no
+	}
+}
+
+# Make sure these are all working
+# heritages = { heritage_osjzari } this is for groups of cultures, heritages
+# baron_feudal_male_arabic_group <--- ts the title holders key for that ^
+
+
+## Make sure to add Zamareni titles too but with slightly higher priority = so that it overrules the Oszjari standard for Oszjari only cultures.

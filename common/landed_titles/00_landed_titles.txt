@@ -7,7 +7,7 @@ h_ischanor = {
     e_vedanica = {
         color = { 220 60 60 }
         color2 = { 255 255 255 }
-        capital = c_varennapared
+        capital = c_island_2
 
          k_charase_islands= {
             color = { 153 204 255 }
