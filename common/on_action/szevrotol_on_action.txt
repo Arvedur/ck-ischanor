@@ -1,5 +1,0 @@
-on_daily_pulse = {
-    events = {
-        szevrotol.1
-    }
-}
