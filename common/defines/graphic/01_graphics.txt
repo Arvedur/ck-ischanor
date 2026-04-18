@@ -1,0 +1,4 @@
+NCamera = {
+	PANNING_WIDTH =  8448 # LotR: extended map to borders.
+	PANNING_HEIGHT = 5632 # LotR: extended map to borders.
+}

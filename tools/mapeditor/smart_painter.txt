@@ -1,0 +1,464 @@
+﻿SmartPainter={
+	PresetManager={
+		Presets={
+			Preset={
+				name="Steppe"
+				HeightRange={
+					Range={
+						name="Steppe Plain Rocks"
+						pattern=2
+						curve=0
+						angle_l=25.000000
+						angle_r=80.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_central_hills"
+									Value=200
+								}
+
+								Material={
+									MaterialId="gen_desert_mountain"
+									Value=55
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
+			Preset={
+				name="Snowcaps"
+				HeightRange={
+					Range={
+						name="New Pattern"
+						pattern=1
+						curve=0
+						angle_l=125.000000
+						angle_r=142.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="snow"
+									Value=255
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=3
+						debugging=no
+					}
+
+					Range={
+						name="New Pattern"
+						pattern=4
+						curve=0
+						angle_l=45.000000
+						angle_r=45.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
+			Preset={
+				name="Steppe Experimenation - Plains"
+				HeightRange={
+					Range={
+						name="New Pattern"
+						pattern=3
+						curve=0
+						angle_l=87.000000
+						angle_r=101.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_drylands_lowlands"
+									Value=255
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=1
+						debugging=no
+					}
+
+					Range={
+						name="New Pattern"
+						pattern=3
+						curve=0
+						angle_l=60.000000
+						angle_r=92.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_steppe_lowlands"
+									Value=255
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=1
+						debugging=no
+					}
+
+				}
+			}
+
+			Preset={
+				name="Vedanica"
+				HeightRange={
+					Range={
+						name="Snow"
+						pattern=1
+						curve=0
+						angle_l=90.000000
+						angle_r=125.000000
+						bleeding=3
+						density=64
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_central_mountain"
+									Value=255
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=3
+						debugging=no
+					}
+
+					Range={
+						name="Plains"
+						pattern=3
+						curve=0
+						angle_l=80.000000
+						angle_r=100.000000
+						bleeding=3
+						density=32
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_central_lowlands"
+									Value=29
+								}
+
+								Material={
+									MaterialId="medi_grass_01"
+									Value=89
+								}
+
+								Material={
+									MaterialId="gen_central_lowlands_02"
+									Value=59
+								}
+
+								Material={
+									MaterialId="medi_noisy_grass"
+									Value=78
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=1
+						debugging=no
+					}
+
+					Range={
+						name="New Pattern"
+						pattern=2
+						curve=0
+						angle_l=25.000000
+						angle_r=75.000000
+						bleeding=30
+						density=32
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_mediterranean_mountain"
+									Value=92
+								}
+
+								Material={
+									MaterialId="gen_central_mountain"
+									Value=77
+								}
+
+								Material={
+									MaterialId="gen_mediterranean_mountain_transition"
+									Value=43
+								}
+
+								Material={
+									MaterialId="gen_central_mountain_transition"
+									Value=43
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
+			Preset={
+				name="Relief"
+				HeightRange={
+					Range={
+						name="Rocky"
+						pattern=2
+						curve=0
+						angle_l=10.000000
+						angle_r=75.000000
+						bleeding=3
+						density=20
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="central_mountain"
+									Value=123
+								}
+
+								Material={
+									MaterialId="gen_mediterranean_mountain"
+									Value=38
+								}
+
+								Material={
+									MaterialId="coastline_cliff_grey"
+									Value=14
+								}
+
+								Material={
+									MaterialId="gen_northern_mountain"
+									Value=80
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=3
+						debugging=no
+					}
+
+					Range={
+						name="New Pattern"
+						pattern=2
+						curve=0
+						angle_l=79.000000
+						angle_r=81.000000
+						bleeding=5
+						density=10
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="hills_01_rocks_small"
+									Value=45
+								}
+
+								Material={
+									MaterialId="gen_central_mountain_transition"
+									Value=90
+								}
+
+								Material={
+									MaterialId="gen_central_mountain"
+									Value=120
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=3
+						debugging=no
+					}
+
+				}
+			}
+
+			Preset={
+				name="Valleys"
+				HeightRange={
+					Range={
+						name="New Pattern"
+						pattern=0
+						curve=0
+						angle_l=90.000000
+						angle_r=90.000000
+						bleeding=3
+						density=20
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="gen_central_lowlands_02"
+									Value=255
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=3
+						debugging=no
+					}
+
+				}
+			}
+
+		}
+	}
+
+	CurrentPreset=4
+	Autosave=yes
+}
+
