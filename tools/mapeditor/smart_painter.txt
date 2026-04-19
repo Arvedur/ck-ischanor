@@ -323,55 +323,12 @@
 				name="Relief"
 				HeightRange={
 					Range={
-						name="New Pattern"
-						pattern=2
-						curve=0
-						angle_l=70.000000
-						angle_r=77.000000
-						bleeding=5
-						density=10
-						opacity_curve={
-							type="Linear"
-							is_clamped=no
-							points={ 0.000000 1.000000 1.000000 1.000000 }
-						}
-
-						opacity_mask_transform={
-						}
-
-						material={
-							Name=""
-							Materials={
-								Material={
-									MaterialId="hills_01_rocks_small"
-									Value=45
-								}
-
-								Material={
-									MaterialId="gen_central_mountain_transition"
-									Value=90
-								}
-
-								Material={
-									MaterialId="gen_central_mountain"
-									Value=120
-								}
-
-							}
-						}
-
-						visible=yes
-						avg_geometry=3
-						debugging=no
-					}
-
-					Range={
 						name="Rocky"
 						pattern=2
-						curve=0
-						angle_l=5.000000
-						angle_r=55.000000
-						bleeding=3
+						curve=3
+						angle_l=10.000000
+						angle_r=77.000000
+						bleeding=1
 						density=20
 						opacity_curve={
 							type="Linear"
@@ -387,62 +344,29 @@
 							Materials={
 								Material={
 									MaterialId="central_mountain"
-									Value=123
+									Value=167
 								}
 
 								Material={
 									MaterialId="gen_mediterranean_mountain"
-									Value=38
+									Value=45
 								}
 
 								Material={
 									MaterialId="coastline_cliff_grey"
-									Value=14
+									Value=24
 								}
 
 								Material={
 									MaterialId="gen_central_base"
-									Value=80
+									Value=19
 								}
 
 							}
 						}
 
 						visible=yes
-						avg_geometry=3
-						debugging=no
-					}
-
-					Range={
-						name="New Pattern"
-						pattern=1
-						curve=0
-						angle_l=110.000000
-						angle_r=90.000000
-						bleeding=3
-						density=4
-						opacity_curve={
-							type="Linear"
-							is_clamped=no
-							points={ 0.000000 1.000000 1.000000 1.000000 }
-						}
-
-						opacity_mask_transform={
-						}
-
-						material={
-							Name=""
-							Materials={
-								Material={
-									MaterialId="central_mountain"
-									Value=255
-								}
-
-							}
-						}
-
-						visible=yes
-						avg_geometry=3
+						avg_geometry=0
 						debugging=no
 					}
 
