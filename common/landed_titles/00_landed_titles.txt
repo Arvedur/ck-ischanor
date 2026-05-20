@@ -14,7 +14,7 @@ h_ischanor = {
             color2 = { 255 255 255 }
             definite_form = yes
             short_name = yes
-            capital = c_
+            capital = c_island_16_2
 
             d_charase_1 = {
             color = { 255 140 0  }
@@ -435,6 +435,69 @@ h_ischanor = {
                 }
             }   
            
+        }
+
+         k_zamaranji= {
+            color = { 10 206 209 }
+            color2 = { 255 255 255 }
+            definite_form = yes
+            short_name = yes
+            capital = c_korosanec_county_1
+
+    
+            d_korosanec_1 = {
+            color = { 240 230 140 }
+            color2 = { 255 255 255 }
+            capital = c_island_8_1
+
+                c_korosanec_county_1 = {
+                color = { 238 232 170 }
+                color2 = { 255 255 255 }
+                    b_prov86 = { 
+                        province = 88
+                    }
+                    b_prov87 = { 
+                        province = 89
+                    }
+                    b_prov88 = { 
+                        province = 90
+                    }
+
+                }
+                c_korosanec_county_2 = {
+                color = { 255 228 196 }
+                color2 = { 255 255 255 }
+                    b_prov89 = { 
+                        province = 91
+                    }
+                    b_prov90 = { 
+                        province = 92
+                    }
+                }
+                c_korosanec_county_3 = {
+                color = { 250,250,210 }
+                color2 = { 255 255 255 }
+                    b_prov91 = { 
+                        province = 93
+                    }
+                    b_prov92 = { 
+                        province = 94
+                    }
+                    b_prov95 = { 
+                        province = 97
+                    }
+                }
+                c_korosanec_county_4 = {
+                color = { 210 180 140 }
+                color2 = { 255 255 255 }
+                    b_prov94 = { 
+                        province = 96
+                    }
+                    b_prov93 = { 
+                        province = 95
+                    }
+                }
+            }               
         }
     }
 }   
