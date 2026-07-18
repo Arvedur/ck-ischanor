@@ -1,0 +1,98 @@
+﻿k_zamaranji = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_mrinje = {
+	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 11 }
+	1101.1.1 = { change_development_level = 19 }
+	1178.1.1 = { change_development_level = 27 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_vogast = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 6 }
+	1101.1.1 = { change_development_level = 15 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 3
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_upper_mrinje = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 17 }
+	1178.1.1 = { change_development_level = 25 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_korosanec_1 = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 4
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_korosanec_2 = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 4
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_vela_greda = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 7 }
+	1101.1.1 = { change_development_level = 13 }
+	1178.1.1 = { change_development_level = 22 }
+
+    1066.1.1 = {
+        holder = 200
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}

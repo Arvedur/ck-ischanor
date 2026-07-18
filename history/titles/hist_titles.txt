@@ -1,4 +1,4 @@
-e_R254G38B180 = {
+e_ischanor  = {
 	851.7.7 = {
 		holder = gen_1
 	}
@@ -9,7 +9,7 @@ e_R254G38B180 = {
 		holder = gen_3
 	}
 }
-k_R136G144B120 = {
+k_vedanica = {
 	851.7.7 = {
 		holder = gen_1
 		liege = e_R254G38B180	
@@ -23,31 +23,45 @@ k_R136G144B120 = {
 		liege = e_R254G38B180
 	}
 }
-d_R145G96B58 = {
-	851.7.7 = {
-		holder = gen_1
-		liege = k_R136G144B120
-	}
-	1065.1.1 = {
-		holder = gen_2
-		liege = k_R136G144B120
-	}
-	1177.1.1 = {
-		holder = gen_3
-		liege = k_R136G144B120
-	}
+k_zamaranji = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 1
+        liege = e_vedanica
+    }
+
+    government = feudal
+
 }
-c_R63G246B62 = {
-	851.7.7 = {
-		holder = gen_1
-		liege = d_R145G96B58	
-	}
-	1065.1.1 = {
-		holder = gen_2
-		liege = d_R145G96B58
-	}
-	1177.1.1 = {
-		holder = gen_3
-		liege = d_R145G96B58
-	}
+d_korosanec_1 = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 4
+        liege = e_vedanica
+    }
+
+    government = feudal
+
+}
+d_korosanec_2 = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 16 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 4
+        liege = e_vedanica
+    }
+
+    government = feudal
+
 }

@@ -155,8 +155,8 @@
 	holding = none
 }
 45 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 46 = {
@@ -176,8 +176,8 @@
 	holding = city
 }
 51 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 52 = {
@@ -191,8 +191,8 @@
 	holding = none
 }
 55 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 56 = {
@@ -209,32 +209,32 @@
 	holding = none
 }
 60 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 61 = {
 	holding = city
 }
 62 = {
-	culture = meycensau
-	religion = měcynec_courtism
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 63 = {
 	holding = none
 }
 64 = {
-	culture = meycensau
-	religion = měcynec_courtism
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 65 = {
 	holding = none
 }
 66 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 67 = {
@@ -248,20 +248,211 @@
 	holding = city
 }
 70 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 71 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 72 = {
 	holding = none
 }
 73 = {
-	culture = osjzari
-	religion = children_of_diena
+	culture = zamareni
+	religion = courtism
 	holding = castle
+}
+74 = {
+	holding = city
+}
+75 = {
+	holding = none
+}
+76 = {
+	holding = none
+}
+77 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+78 = {
+	holding = city
+}
+79 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+80 = {
+	holding = church
+}
+81 = {
+	holding = city
+}
+82 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+83 = {
+	holding = none
+}
+84 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+85 = {
+	holding = none
+}
+86 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+87 = {
+	holding = none
+}
+88 = {
+	holding = none
+}
+89 = {
+	holding = city
+}
+90 = {
+	holding = city
+}
+91 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+92 = {
+	holding = city
+}
+93 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+94 = {
+	holding = none
+}
+95 = {
+	holding = church
+}
+96 = {
+	holding = none
+}
+97 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+98 = {
+	holding = city
+}
+99 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+100 = {
+	holding = none
+}
+101 = {
+	holding = none
+}
+102 = {
+	holding = none
+}
+103 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+104 = {
+	holding = city
+}
+105 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+106 = {
+	holding = church
+}
+107 = {
+	holding = city
+}
+108 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+109 = {
+	holding = none
+}
+110 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+111 = {
+	holding = none
+}
+112 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+113 = {
+	holding = none
+}
+114 = {
+	holding = church
+}
+115 = {
+	holding = city
+}
+116 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+117 = {
+
+	holding = castle
+}
+118 = {
+	holding = city
+}
+119 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+120 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+121 = {
+	holding = church
+}
+122 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+123 = {
+
+	holding = castle
+}
+124 = {
+	holding = city
 }

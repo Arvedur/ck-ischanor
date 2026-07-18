@@ -1,0 +1,17 @@
+k_vedanica = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 8 }
+	1101.1.1 = { change_development_level = 14 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 2
+        liege = e_vedanica
+    }
+    
+    1066.1.1 = {
+    government = feudal
+
+    }
+}
+
