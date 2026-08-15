@@ -91,6 +91,9 @@
  language_vietnamese_name: "Vietic"
  language_mon_khmer_name: "Mon-Khmer"
  language_papuan_name: "Papuan"
+ language_vedanican_name: "Vědanican"
+ language_zamareni_name: "Zamareni" 
+ language_chasreni_name: "Chasreni"
 
  aesthetics_norwegian_name:0 "Norwegian"
  aesthetics_swedish_name:0 "Swedish"

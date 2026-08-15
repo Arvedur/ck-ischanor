@@ -583,3 +583,21 @@ heritage_viet = {
 	}
 	audio_parameter = sea
 }
+heritage_chasreni = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chasreni
+		}
+	}
+	audio_parameter = european
+}
+heritage_ojszari = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ojszari
+		}
+	}
+	audio_parameter = european
+}

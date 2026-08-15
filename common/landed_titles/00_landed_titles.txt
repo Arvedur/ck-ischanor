@@ -41,6 +41,11 @@ h_ischanor = {
                         province = 7
                     }
                 }
+            }
+            d_charase_2 = {
+                    color = { 122 37 118  }
+                    color2 = { 255 255 255 }
+                    capital = c_island_3_1
                 c_island_2 = {
                 color = { 153 50 204 }
                 color2 = { 255 255 255 }
@@ -98,7 +103,6 @@ h_ischanor = {
                     }
                 }
             }
-            
 
 
             d_vela_greda = {
@@ -488,10 +492,58 @@ h_ischanor = {
                         province = 124
                     }
                 }
-  
+               c_mrinje_4 = {
+                color = { 70 130 180 }
+                color2 = { 255 255 255 }
+                    b_prov123 = { 
+                        province = 125
+                    }
+                    b_prov124 = { 
+                        province = 126
+                    }
+                }
+               c_mrinje_5 = {
+                color = { 0 206 209 }
+                color2 = { 255 255 255 }
+                    b_prov125 = { 
+                        province = 127
+                    }
+                    b_prov126 = { 
+                        province = 128
+                    }
+                    b_prov127 = { 
+                        province = 129
+                    }
+                }
+               c_mrinje_6 = {
+                color = { 106 106 216 }
+                color2 = { 255 255 255 }
+                    b_prov128 = { 
+                        province = 130
+                    }
+                    b_prov129 = { 
+                        province = 131
+                    }
+                }
+               c_mrinje_7 = {
+                color = { 40 40 149 }
+                color2 = { 255 255 255 }
+                    b_prov130 = { 
+                        province = 132
+                    }
+                    b_prov131 = { 
+                        province = 133
+                    }
+                    b_prov132 = { 
+                        province = 134
+                    }
+                    b_prov133 = { 
+                        province = 135
+                    }
+                }
             }
             d_korosanec_1 = {
-            color = { 240 230 140 }
+            color = { 255 182 193 }
             color2 = { 255 255 255 }
             capital = c_korosanec_county_1
 
@@ -510,7 +562,7 @@ h_ischanor = {
 
                 }
                 c_korosanec_county_2 = {
-                color = { 240 128 128 }
+                color = {255 182 193}
                 color2 = { 255 255 255 }
                     b_prov89 = { 
                         province = 91
@@ -535,7 +587,7 @@ h_ischanor = {
                 }
             }
             d_korosanec_2 = {
-            color = { 240 230 140 }
+            color = { 255 192 203 }
             color2 = { 255 255 255 }
             capital = c_korosanec_county_3
                 c_korosanec_county_3 = {
@@ -561,7 +613,7 @@ h_ischanor = {
                         province = 95
                     }
                 }
-                c_korosanec_county_5 = {
+                c_korosanec_county_6 = {
                 color = { 218 112 214 }
                 color2 = { 255 255 255 }
                     b_prov100 = { 
@@ -571,7 +623,7 @@ h_ischanor = {
                         province = 106
                     }
                 }
-               c_korosanec_county_6 = {
+               c_korosanec_county_7 = {
                 color = { 199 21 133 }
                 color2 = { 255 255 255 }
                     b_prov101 = { 
@@ -631,7 +683,7 @@ h_ischanor = {
             color2 = { 255 255 255 }
             capital = c_upper_mrinje_1
 
-                c_vanjisa = {
+                c_vogast = {
                 color = { 51 53 50 }
                 color2 = { 255 255 255 }
                     b_prov107 = { 
@@ -644,6 +696,22 @@ h_ischanor = {
                         province = 111
                     }
 
+                }
+                c_vanjisa = {
+                color = { 153 158 151 }
+                color2 = { 255 255 255 }
+                    b_prov134 = { 
+                        province = 136
+                    }
+                    b_prov135 = { 
+                        province = 137
+                    }
+                    b_prov136 = { 
+                        province = 138
+                    }
+                    b_prov137 = { 
+                        province = 139
+                    }
                 }
             } 
         }

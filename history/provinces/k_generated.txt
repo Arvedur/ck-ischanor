@@ -1,312 +1,417 @@
 ﻿#k_arch_duchy_zamaranje
 3 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 4 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 5 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 6 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 7 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 8 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 9 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 10 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 11 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 12 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 13 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 14 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 15 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 16 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 17 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 18 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 19 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 20 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 21 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 22 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 23 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 24 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 25 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 26 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 27 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 28 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 29 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 30 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 31 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 32 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 33 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 34 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 35 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 36 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 37 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 38 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 39 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 40 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 41 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 42 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 43 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
-#k_vedanica
 44 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 45 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 46 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 47 = {
+	culture = chasreni
+	religion = courtism
     holding = castle
 }
 48 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 49 = {
-
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 50 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 51 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 52 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 53 = {
-
+	culture = chasreni
+	religion = courtism
 	holding = castle
 }
 54 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 55 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 56 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 57 = {
-
+	culture = chasreni
+	religion = courtism
 	holding = castle
 }
 58 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 59 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 60 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 61 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 62 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 63 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 64 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 65 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 66 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 67 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 68 = {
-
+	culture = chasreni
+	religion = courtism
 	holding = castle
 }
 69 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 70 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 71 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 72 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 73 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 74 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 75 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 76 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 77 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 78 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 79 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 80 = {
+	culture = chasreni
+	religion = courtism
 	holding = church
 }
 81 = {
+	culture = chasreni
+	religion = courtism
 	holding = city
 }
 82 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 83 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 84 = {
-	culture = zamareni
+	culture = chasreni
 	religion = courtism
 	holding = castle
 }
 85 = {
+	culture = chasreni
+	religion = courtism
 	holding = none
 }
 86 = {
@@ -315,15 +420,23 @@
 	holding = castle
 }
 87 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 88 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 89 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 90 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 91 = {
@@ -332,6 +445,8 @@
 	holding = castle
 }
 92 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 93 = {
@@ -340,12 +455,18 @@
 	holding = castle
 }
 94 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 95 = {
+	culture = zamareni
+	religion = courtism
 	holding = church
 }
 96 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 97 = {
@@ -354,6 +475,8 @@
 	holding = castle
 }
 98 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 99 = {
@@ -362,12 +485,18 @@
 	holding = castle
 }
 100 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 101 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 102 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 103 = {
@@ -376,6 +505,8 @@
 	holding = castle
 }
 104 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 105 = {
@@ -384,9 +515,13 @@
 	holding = castle
 }
 106 = {
+	culture = zamareni
+	religion = courtism
 	holding = church
 }
 107 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 108 = {
@@ -395,6 +530,8 @@
 	holding = castle
 }
 109 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 110 = {
@@ -403,6 +540,8 @@
 	holding = castle
 }
 111 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 112 = {
@@ -411,12 +550,18 @@
 	holding = castle
 }
 113 = {
+	culture = zamareni
+	religion = courtism
 	holding = none
 }
 114 = {
+	culture = zamareni
+	religion = courtism
 	holding = church
 }
 115 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 116 = {
@@ -425,10 +570,13 @@
 	holding = castle
 }
 117 = {
-
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 118 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
 }
 119 = {
@@ -442,6 +590,8 @@
 	holding = castle
 }
 121 = {
+	culture = zamareni
+	religion = courtism
 	holding = church
 }
 122 = {
@@ -450,9 +600,87 @@
 	holding = castle
 }
 123 = {
-
+	culture = zamareni
+	religion = courtism
 	holding = castle
 }
 124 = {
+	culture = zamareni
+	religion = courtism
 	holding = city
+}
+125 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+126 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+127 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+128 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+129 = {
+	culture = zamareni
+	religion = courtism
+	holding = church
+}
+130 = {
+	culture = zamareni
+	religion = courtism
+	holding = city
+}
+131 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+132 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+133 = {
+	culture = zamareni
+	religion = courtism
+	holding = city
+}
+134 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+135 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+136 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+137 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+138 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+139 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
 }

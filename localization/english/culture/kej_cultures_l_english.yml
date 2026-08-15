@@ -3,10 +3,14 @@
  osjzari_prefix: "Ojsarani"
  osjzari_collective_noun: "Ojszari"
 
- zamaranji: "zamareni"
- zamaranji_prefix: "zamaranji"
- zamaranji_collective_noun: "zamareni"
+ zamareni: "zamareni"
+ zamareni_prefix: "zamaranji"
+ zamareni_collective_noun: "zamareni"
 
  meycensau: "Měcynec"
- maluku_prefix: "Měcyenšaic"
- maluku_collective_noun: "Měcyens"
+ meycensau_prefix: "Měcyenšaic"
+ meycensau_collective_noun: "Měcyens"
+
+ chasreni: "Chasreni"
+ chasreni_prefix: "Charase"
+ chasreni_collective_noun: "Chasreni"

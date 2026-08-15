@@ -20,7 +20,7 @@ d_mrinje = {
 
     1066.1.1 = {
         holder = 1
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -34,7 +34,7 @@ d_vogast = {
 
     1066.1.1 = {
         holder = 3
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -48,7 +48,7 @@ d_upper_mrinje = {
 
     1066.1.1 = {
         holder = 1
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -62,7 +62,7 @@ d_korosanec_1 = {
 
     1066.1.1 = {
         holder = 4
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -76,7 +76,7 @@ d_korosanec_2 = {
 
     1066.1.1 = {
         holder = 4
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -89,8 +89,22 @@ d_vela_greda = {
 	1178.1.1 = { change_development_level = 22 }
 
     1066.1.1 = {
-        holder = 200
-        liege = e_vedanica
+        holder = 10
+        liege = k_zamaranji
+    }
+
+    government = feudal
+
+}
+d_charase_2 = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 8 }
+	1101.1.1 = { change_development_level = 14 }
+	1178.1.1 = { change_development_level = 24 }
+
+    1066.1.1 = {
+        holder = 11
+        liege = k_zamaranji
     }
 
     government = feudal

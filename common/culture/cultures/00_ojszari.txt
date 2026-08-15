@@ -28,10 +28,10 @@ osjzari = {
 	}
 }
 zamareni = {
-	color = { 0.96 0.73 1.0 } 
+	color = { 0.68 0.85 0.90 } 
 	
 	ethos = ethos_courtly
-	heritage = heritage_west_slavic
+	heritage = heritage_ojszari
 	language = language_zamareni
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -56,11 +56,40 @@ zamareni = {
 		39 = slavic_dark_hair
 	}
 }
+chasreni = {
+	color = { 1.00 1.00 0.00 } 
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_chasreni
+	language = language_chasreni
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_city_keepers
+		tradition_welcoming
+		tradition_maritime_mercantilism
+		tradition_seafaring
+		tradition_culture_blending
+	}
+
+	name_list = name_list_zamareni 
+
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		5 = slavic_blond
+		5 = slavic_ginger
+		55 = slavic_brown_hair
+		35 = slavic_dark_hair
+	}
+}
 meycensau = {
 	color = {0.8 0.5 0.2} # The color of the culture, used e.g. on the map
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_west_slavic
+	heritage = heritage_ojszari
 	language = language_vedanican
 	martial_custom = martial_custom_equal
 	traditions = {

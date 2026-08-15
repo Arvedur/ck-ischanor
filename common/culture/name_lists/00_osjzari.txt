@@ -137,7 +137,7 @@
 	male_names = {
 		Aestun Anatej Bartoš Běnic Brekjan
 		Čorten Koreljko Devjan Dalibor Dalimil Dicum DiviS_ Dašem Džejms Ferent Faroš Honza Hynek Hvrajni
-		Jašek Jakub Jan Joran Kolon Kojata KonrA_d Kuna Ladislav Lobard Laž Maren Markvart Mjenaž Mekias Merek Měniž Marenko Mjerhan Morek 
+		Jašek Jakub Jan Joran Kolon Kojata KonrA_d Kuna Ladislav Lobard Laž Maren Markvart Mjenaž Mekias Merek Měniž Marenko Mjerhan Morek
 	    Nadož Otto Otakar Petr Pěnac Skadrež Sekarž Radovan Radiž Radigos Radigas Vanjoš Vigaš Veloš Zikmund Zevran
 	}
 	female_names = {
@@ -289,12 +289,12 @@ name_list_zamaranji = {
 	
 	male_names = {
 		Aestun Anatej Bartoš Běnic Brekjan
-		Čorten Koreljko Devjan Dašem Džejms Ferent Faroš Fazin Honza Hynek Jašek Jakub Jan Joran 
-		Kolon Kojata Kuna Ladislav Lobard Laž Maren Markvart Mjenaž Merek Měniž Marenko Mjerhan Morek 
-		Numije Nivko Numios Nadož Otto Pěnac Skadrež Sekarž Radiž Radigos Radigas Vanjoš Vigaš Veloš
+		Čorten Koreljko Devjan Dašem Džejms Ferent Faroš Fazin Honza Hynek Jašek Jakub Jan Joran
+		Kolon Kojata Kuna Ladislav Lobard Laž Maren Markvart Mjenaž Merek Měniž Marenko Mjerhan Morek
+		Numije Nivko Numios Nadož Otto Pěnac Pašter Skadrež Sekarž Radiž Radigos Radigas Vanjoš Vigaš Veloš
 	}
 	female_names = {
-		Anateja AlZ_bEE_ta AneZ_ka Anna Barbora BedR_iS_ka Berta BlahomI_ra BlaZ_ena Bohdana Bohumila Bohunka Bohuslava BoZ_ena BoZ_islava BR_etislava
+		Anateja Arsino AlZ_bEE_ta AneZ_ka Anna Barbora BedR_iS_ka Berta BlahomI_ra BlaZ_ena Bohdana Bohumila Bohunka Bohuslava BoZ_ena BoZ_islava BR_etislava
 		CC_astava CecI_lie Ctislava Diena Dravine Dobroslava Domaslava Dorota Devjana DrahomI_ra Drahoslava EliS_ka Eufemie Gertruda Guta
 		Hedvika Helena Hodka Jana Jaroslava Jitka Johanka Judita Justina KateR_ina KlA_ra Konstancie KristY_na Kunhuta
 		Lobrada Ludmila Marie MarkE_ta Mlada Olga Perchta PR_ibyslava Radka Rejna Richeza Richsa SS_A_rka Skonka Stanislava Svatava

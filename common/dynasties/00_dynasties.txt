@@ -68,5 +68,10 @@ dynasty_13 = {
 dynasty_14 = {
     name = "dynn_ve_bersekles"
     culture = meycensau
-    motto = dynn__ve_bersekles_motto
+    motto = dynn_ve_bersekles_motto
+}
+dynasty_15 = {
+    name = "dynn_vjedenirin"
+    culture = zamareni
+    motto = dynn_vjedenirin_motto
 }

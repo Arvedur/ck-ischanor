@@ -1671,17 +1671,34 @@ language_vedanican = {
 	
 	color = { 1.0 0.44 0.37 } 
 }
-language_zamarani = {
+language_zamareni = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_zamarani
+			LANGUAGE = language_zamareni
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_zamarani }
+			limit = { has_cultural_pillar = language_zamareni }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.96 0.73 1.0 } 
+}
+language_chasreni = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_chasreni
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_chasreni }
 			multiply = 10
 		}
 	}

@@ -1,0 +1,153 @@
+1 = {
+	name = "Kolan"
+	male = yes
+	dynasty = dynasty_1
+	religion = "courtism"
+	culture = zamareni
+	martial = 13
+	diplomacy = 11
+	intrigue = 9
+	stewardship = 13
+	learning = 11
+	1030.2.18 = {
+		birth = yes
+	}
+	1090.7.11 = {
+		death = yes
+	}
+}
+2 = {
+	name = "Radigas"
+	male = yes
+	dna = 2_radigas_char
+	dynasty = dynasty_10
+	religion = children_of_diena
+	culture = osjzari
+	martial = 17
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 18
+	learning = 10
+	1040.2.18 = {
+		birth = yes
+	}
+	1112.7.11 = {
+		death = yes
+	}
+}
+3 = {
+	name = "Devjan"
+	male = yes
+	dynasty = dynasty_11
+	religion = "courtism"
+	culture = zamareni
+	martial = 15
+	diplomacy = 10
+	intrigue = 15
+	stewardship = 10
+	learning = 10
+	1045.2.18 = {
+		birth = yes
+	}
+	1113.7.11 = {
+		death = yes
+	}
+}
+4 = {
+	name = "Fazin"
+	male = yes
+	dynasty = dynasty_6
+	religion = "courtism"
+	culture = zamareni
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	1045.2.18 = {
+		birth = yes
+	}
+	1082.7.11 = {
+		death = yes
+	}
+}
+5 = {
+	name = "Arsino"
+	female = yes
+	dynasty = dynasty_6
+	religion = "courtism"
+	culture = zamareni
+	martial = 12
+	diplomacy = 19
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	father = 4
+	1064.2.19 = {
+		birth = yes
+	}
+	1130.7.12 = {
+		death = yes
+	}
+}
+6 = {
+	name = "Varenna"
+	female = yes
+	religion = children_of_diena
+	culture = osjzari
+	martial = 7
+	diplomacy = 17
+	intrigue = 8
+	stewardship = 12
+	learning = 17
+	1042.2.19 = {
+		birth = yes
+	}
+    1060.1.1 = {
+    add_spouse = 2
+    }
+	1110.7.12 = {
+		death = yes
+	}
+}
+
+10 = {
+	name = "Kolana"
+	female = yes
+	dynasty = dynasty_2
+	religion = courtism
+	culture = chasreni
+	martial = 16
+	diplomacy = 16
+	intrigue = 8
+	stewardship = 17
+	learning = 15
+	prowess = 16
+	father = 142
+	1021.6.23 = {
+		birth = yes
+	}
+	1088.5.12 = {
+		death = {
+			death_reason = death_ill
+		}	
+	}
+}
+11 = {
+	name = "Pašter"
+	male = yes
+	dynasty = dynasty_15
+	religion = "courtism"
+	culture = chasreni
+	martial = 15
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 14
+	learning = 10
+	1042.2.12 = {
+		birth = yes
+	}
+	1082.7.14 = {
+		death = yes
+	}
+}

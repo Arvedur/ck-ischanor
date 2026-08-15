@@ -45,7 +45,7 @@ d_korosanec_1 = {
 
     1066.1.1 = {
         holder = 4
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
@@ -59,7 +59,7 @@ d_korosanec_2 = {
 
     1066.1.1 = {
         holder = 4
-        liege = e_vedanica
+        liege = k_zamaranji
     }
 
     government = feudal
