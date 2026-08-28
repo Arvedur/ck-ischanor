@@ -33,7 +33,7 @@ d_vogast = {
 	1178.1.1 = { change_development_level = 23 }
 
     1066.1.1 = {
-        holder = 3
+        holder = 1
         liege = k_zamaranji
     }
 
@@ -104,6 +104,34 @@ d_charase_2 = {
 
     1066.1.1 = {
         holder = 11
+        liege = k_zamaranji
+    }
+
+    government = feudal
+
+}
+d_kudrezin = {
+	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 17 }
+	1178.1.1 = { change_development_level = 25 }
+
+    1066.1.1 = {
+        holder = 3
+        liege = k_zamaranji
+    }
+
+    government = feudal
+
+}
+d_upper_kudrezin = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 9 }
+	1101.1.1 = { change_development_level = 15 }
+	1178.1.1 = { change_development_level = 23 }
+
+    1066.1.1 = {
+        holder = 3
         liege = k_zamaranji
     }
 

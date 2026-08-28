@@ -684,3 +684,118 @@
 	religion = courtism
 	holding = castle
 }
+140 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+141 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+142 = {
+	culture = zamareni
+	religion = courtism
+	holding = church
+}
+143 = {
+	culture = zamareni
+	religion = courtism
+	holding = church
+}
+144 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+145 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+146 = {
+	culture = zamareni
+	religion = courtism
+	holding = city
+}
+147 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+148 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+149 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+150 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+151 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+152 = {
+	culture = zamareni
+	religion = courtism
+	holding = city
+}
+153 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+154 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+155 = {
+	culture = zamareni
+	religion = courtism
+	holding = city
+}
+156 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+157 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+158 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+159 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+160 = {
+	culture = zamareni
+	religion = courtism
+	holding = none
+}
+161 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}
+162 = {
+	culture = zamareni
+	religion = courtism
+	holding = castle
+}

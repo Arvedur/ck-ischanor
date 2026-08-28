@@ -1,4 +1,4 @@
-﻿k_grand_duchy_vedanica = {
+﻿e_vedanica = {
 	 custom=yes
     pattern="pattern__solid_designer.dds"
     color1=red
@@ -69,7 +69,7 @@
 
     }
 }
-k_arch_duchy_zamaranje = {
+k_zamaranji = {
     custom=yes
     pattern="pattern_solid.dds"
     color1=blue_light
@@ -249,7 +249,7 @@ k_arch_duchy_zamaranje = {
 
 
 
-d_march_of_meycensau = {
+d_meycensau = {
     custom=yes
     pattern="pattern_horizontal_split_01.dds"
     color1=black

@@ -573,7 +573,7 @@ h_ischanor = {
                 }
                 c_korosanec_county_5 = {
                 color = { 128 0 0 }
-                color2 = { 255 255 255 }
+                color2 = { 165 42 42 }
                     b_prov96 = { 
                         province = 98
                     }
@@ -714,6 +714,126 @@ h_ischanor = {
                     }
                 }
             } 
+            d_kudrezin = {
+            color = { 157 52 52 }
+            color2 = { 255 255 255 }
+            capital = c_upper_mrinje_1
+
+                c_kudrezin = {
+                color = { 157 52 52 }
+                color2 = { 255 255 255 }
+                    b_prov151 = { 
+                        province = 153
+                    }
+                    b_prov152 = { 
+                        province = 154
+                    }
+                    b_prov153 = { 
+                        province = 155
+                    }
+
+
+                }
+                c_kudrezin_2 = {
+                color = { 223 134 93 }
+                color2 = { 255 255 255 }
+                    b_prov154 = { 
+                        province = 156
+                    }
+                    b_prov155 = { 
+                        province = 157
+                    }
+                    b_prov156 = { 
+                        province = 158
+                    }
+                }
+                c_kudrezin_3 = {
+                color = { 237 185 162 }
+                color2 = { 255 255 255 }
+                    b_prov157 = { 
+                        province = 159
+                    }
+                    b_prov158 = { 
+                        province = 160
+                    }
+
+                }
+                c_kudrezin_4 = {
+                color = { 204 106 27 }
+                color2 = { 255 255 255 }
+                    b_prov159 = { 
+                        province = 161
+                    }
+                    b_prov160 = { 
+                        province = 162
+                    }
+                }
+               c_kudrezin_5 = {
+                color = { 185 169 82 }
+                color2 = { 255 255 255 }
+                    b_prov148 = { 
+                        province = 150
+                    }
+                    b_prov149 = { 
+                        province = 151
+                    }
+                    b_prov150 = { 
+                        province = 152
+                    }
+                
+                }
+            }
+
+            d_upper_kudrezin = {
+            color = { 63 121 18 }
+            color2 = { 255 255 255 }
+            capital = c_upper_mrinje_1
+
+                c_upper_kudrezin_1 = {
+                color = { 63 121 18 }
+                color2 = { 255 255 255 }
+                    b_prov138 = { 
+                        province = 140
+                    }
+                    b_prov139 = { 
+                        province = 141
+                    }
+                    b_prov140 = { 
+                        province = 142
+                    }
+                    b_prov141 = { 
+                        province = 143
+                    }
+
+                }
+                c_upper_kudrezin_2 = {
+                color = { 163 194 74 }
+                color2 = { 255 255 255 }
+                    b_prov142 = { 
+                        province = 144
+                    }
+                    b_prov143 = { 
+                        province = 145
+                    }
+                    b_prov144 = { 
+                        province = 146
+                    }
+                }
+                c_upper_kudrezin_3 = {
+                color = { 72 84 40 }
+                color2 = { 255 255 255 }
+                    b_prov145 = { 
+                        province = 147
+                    }
+                    b_prov146 = { 
+                        province = 148
+                    }
+                    b_prov147 = { 
+                        province = 149
+                    }
+                }
+
+            }
         }
     }
 }
